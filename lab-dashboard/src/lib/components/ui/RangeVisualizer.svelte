@@ -41,22 +41,21 @@
 			class:over={isOver}
 		>
 			<div class="indicator-dot"></div>
-			<div class="indicator-value">{value}</div>
 		</div>
 	</div>
 </div>
 
 <style>
 	.range-visualizer {
-		padding: 1.5rem 0.5rem 0.5rem 0.5rem;
+		padding: 1.125rem 0.25rem 0.25rem 0.25rem;
 		width: 100%;
 	}
 
 	.range-track {
 		position: relative;
-		height: 6px;
+		height: 4px;
 		background-color: #334155;
-		border-radius: 3px;
+		border-radius: 2px;
 	}
 
 	.range-valid {
@@ -65,26 +64,26 @@
 		bottom: 0;
 		left: 0;
 		right: 0;
-		background-color: rgba(16, 185, 129, 0.15);
-		border-radius: 3px;
+		background-color: rgba(16, 185, 129, 0.1);
+		border-radius: 2px;
 	}
 
 	.marker {
 		position: absolute;
-		top: -4px;
-		width: 2px;
-		height: 14px;
+		top: -3px;
+		width: 1px;
+		height: 10px;
 		background-color: #475569;
 	}
 
 	.marker-label {
 		position: absolute;
-		bottom: 18px;
+		bottom: 12px;
 		left: 50%;
 		transform: translateX(-50%);
-		font-size: 0.65rem;
-		font-weight: 600;
-		color: #94a3b8;
+		font-size: 0.6rem;
+		font-weight: 700;
+		color: #64748b;
 		white-space: nowrap;
 	}
 
@@ -100,51 +99,26 @@
 	}
 
 	.indicator-dot {
-		width: 12px;
-		height: 12px;
+		width: 10px;
+		height: 10px;
 		border-radius: 50%;
-		border: 2px solid #1e293b;
-		box-shadow: 0 0 0 2px currentColor;
+		background-color: #1e293b;
+		border: 2px solid currentColor;
+		box-shadow: 0 0 4px rgba(0,0,0,0.5);
 	}
 
-	.indicator-value {
-		position: absolute;
-		top: 14px;
-		font-size: 0.75rem;
-		font-weight: 700;
-		white-space: nowrap;
-	}
+	.status-normal { color: #10b981; }
+	.status-high { color: #f59e0b; }
+	.status-low { color: #dc2626; }
+	.status-unknown { color: #6b7280; }
 
-	.status-normal {
-		color: #10b981;
-	}
-
-	.status-high {
-		color: #f59e0b;
-	}
-
-	.status-low {
-		color: #dc2626;
-	}
-
-	.status-unknown {
-		color: #6b7280;
-	}
-
-	/* Pulse effect for abnormal values */
 	.value-indicator:not(.status-normal):not(.status-unknown) .indicator-dot {
 		animation: pulse 2s infinite;
 	}
 
 	@keyframes pulse {
-		0% {
-			box-shadow: 0 0 0 0px currentColor;
-		}
-		70% {
-			box-shadow: 0 0 0 6px rgba(0, 0, 0, 0);
-		}
-		100% {
-			box-shadow: 0 0 0 0px rgba(0, 0, 0, 0);
-		}
+		0% { box-shadow: 0 0 0 0px currentColor; }
+		70% { box-shadow: 0 0 0 4px rgba(0, 0, 0, 0); }
+		100% { box-shadow: 0 0 0 0px rgba(0, 0, 0, 0); }
 	}
 </style>

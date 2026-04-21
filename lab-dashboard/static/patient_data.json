@@ -24,6 +24,60 @@
           "value": 18.5,
           "unit": "pmol/L",
           "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "T4 (fritt)",
+          "value": 17.86,
+          "unit": "pmol/L",
+          "date": "2026-03-12T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 3.95,
+          "unit": "mIE/L",
+          "date": "2026-02-08T17:18:58.744Z"
+        },
+        {
+          "label": "T4 (fritt)",
+          "value": 17.19,
+          "unit": "pmol/L",
+          "date": "2026-01-24T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 3.81,
+          "unit": "mIE/L",
+          "date": "2026-01-08T17:18:58.744Z"
+        },
+        {
+          "label": "T4 (fritt)",
+          "value": 17.68,
+          "unit": "pmol/L",
+          "date": "2025-11-27T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 3.84,
+          "unit": "mIE/L",
+          "date": "2025-11-26T17:18:58.744Z"
+        },
+        {
+          "label": "T4 (fritt)",
+          "value": 19.4,
+          "unit": "pmol/L",
+          "date": "2025-10-14T16:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 3.01,
+          "unit": "mIE/L",
+          "date": "2025-09-02T16:18:58.744Z"
+        },
+        {
+          "label": "T4 (fritt)",
+          "value": 17.26,
+          "unit": "pmol/L",
+          "date": "2025-08-15T16:18:58.744Z"
         }
       ]
     },
@@ -45,6 +99,66 @@
           "value": 130,
           "unit": "g/L",
           "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "TSH",
+          "value": 2.18,
+          "unit": "mIE/L",
+          "date": "2026-02-08T17:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 117.55,
+          "unit": "g/L",
+          "date": "2026-02-01T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 2.37,
+          "unit": "mIE/L",
+          "date": "2025-12-16T17:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 114.15,
+          "unit": "g/L",
+          "date": "2025-12-02T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 2.2,
+          "unit": "mIE/L",
+          "date": "2025-11-14T17:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 144.84,
+          "unit": "g/L",
+          "date": "2025-10-16T16:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 2.27,
+          "unit": "mIE/L",
+          "date": "2025-09-04T16:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 2.39,
+          "unit": "mIE/L",
+          "date": "2025-08-01T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 128.26,
+          "unit": "g/L",
+          "date": "2025-07-19T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 122.16,
+          "unit": "g/L",
+          "date": "2025-06-18T16:18:58.744Z"
         }
       ]
     },
@@ -62,6 +176,18 @@
           "date": "2026-04-08T18:18:58.744345"
         },
         {
+          "label": "T4 (fritt)",
+          "value": 14.2,
+          "unit": "pmol/L",
+          "date": "2026-04-08T18:18:58.744345"
+        },
+        {
+          "label": "T4 (fritt)",
+          "value": 12.74,
+          "unit": "pmol/L",
+          "date": "2026-02-23T17:18:58.744Z"
+        },
+        {
           "label": "TSH",
           "value": 7.9,
           "unit": "mIE/L",
@@ -69,9 +195,33 @@
         },
         {
           "label": "T4 (fritt)",
-          "value": 14.2,
+          "value": 15.92,
           "unit": "pmol/L",
-          "date": "2026-04-08T18:18:58.744345"
+          "date": "2026-01-24T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 7.04,
+          "unit": "mIE/L",
+          "date": "2025-11-24T17:18:58.744Z"
+        },
+        {
+          "label": "T4 (fritt)",
+          "value": 13.16,
+          "unit": "pmol/L",
+          "date": "2025-11-22T17:18:58.744Z"
+        },
+        {
+          "label": "T4 (fritt)",
+          "value": 12.69,
+          "unit": "pmol/L",
+          "date": "2025-10-21T16:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 9.36,
+          "unit": "mIE/L",
+          "date": "2025-09-22T16:18:58.744Z"
         }
       ]
     },
@@ -90,7 +240,7 @@
         },
         {
           "label": "P-Kalium",
-          "value": 4.0,
+          "value": 4,
           "unit": "mmol/L",
           "date": "2026-04-13T18:18:58.744345"
         },
@@ -99,6 +249,78 @@
           "value": 115,
           "unit": "g/L",
           "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "P-Kalium",
+          "value": 3.47,
+          "unit": "mmol/L",
+          "date": "2026-03-06T17:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 143.57,
+          "unit": "mmol/L",
+          "date": "2026-02-14T17:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 131.4,
+          "unit": "g/L",
+          "date": "2026-01-15T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kalium",
+          "value": 3.66,
+          "unit": "mmol/L",
+          "date": "2026-01-14T17:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 139.52,
+          "unit": "mmol/L",
+          "date": "2026-01-08T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kalium",
+          "value": 4.41,
+          "unit": "mmol/L",
+          "date": "2025-12-03T17:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 121.11,
+          "unit": "g/L",
+          "date": "2025-11-30T17:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 145.67,
+          "unit": "mmol/L",
+          "date": "2025-10-24T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kalium",
+          "value": 3.59,
+          "unit": "mmol/L",
+          "date": "2025-10-22T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 125.81,
+          "unit": "g/L",
+          "date": "2025-09-15T16:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 155.01,
+          "unit": "mmol/L",
+          "date": "2025-08-15T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 116.72,
+          "unit": "g/L",
+          "date": "2025-08-03T16:18:58.744Z"
         }
       ]
     },
@@ -116,16 +338,70 @@
           "date": "2026-04-11T18:18:58.744345"
         },
         {
+          "label": "P-Järn",
+          "value": 8.5,
+          "unit": "µmol/L",
+          "date": "2026-04-11T18:18:58.744345"
+        },
+        {
+          "label": "P-Järn",
+          "value": 8.61,
+          "unit": "µmol/L",
+          "date": "2026-01-22T17:18:58.744Z"
+        },
+        {
           "label": "Hemoglobin",
           "value": 98,
           "unit": "g/L",
           "date": "2026-01-13T18:18:58.744345"
         },
         {
+          "label": "Hemoglobin",
+          "value": 84.78,
+          "unit": "g/L",
+          "date": "2025-11-23T17:18:58.744Z"
+        },
+        {
           "label": "P-Järn",
-          "value": 8.5,
+          "value": 8.68,
           "unit": "µmol/L",
-          "date": "2026-04-11T18:18:58.744345"
+          "date": "2025-10-27T17:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 91.68,
+          "unit": "g/L",
+          "date": "2025-10-04T16:18:58.744Z"
+        },
+        {
+          "label": "P-Järn",
+          "value": 8.91,
+          "unit": "µmol/L",
+          "date": "2025-09-19T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 109.11,
+          "unit": "g/L",
+          "date": "2025-08-28T16:18:58.744Z"
+        },
+        {
+          "label": "P-Järn",
+          "value": 8.81,
+          "unit": "µmol/L",
+          "date": "2025-08-07T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 98.67,
+          "unit": "g/L",
+          "date": "2025-07-27T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 90.34,
+          "unit": "g/L",
+          "date": "2025-06-12T16:18:58.744Z"
         }
       ]
     },
@@ -147,6 +423,72 @@
           "value": 3.8,
           "unit": "mmol/L",
           "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "TSH",
+          "value": 2.14,
+          "unit": "mIE/L",
+          "date": "2026-02-02T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 4.15,
+          "unit": "mmol/L",
+          "date": "2026-01-17T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 2.48,
+          "unit": "mIE/L",
+          "date": "2025-12-26T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 2.33,
+          "unit": "mIE/L",
+          "date": "2025-11-17T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.32,
+          "unit": "mmol/L",
+          "date": "2025-11-10T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 2.52,
+          "unit": "mIE/L",
+          "date": "2025-09-16T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.63,
+          "unit": "mmol/L",
+          "date": "2025-08-15T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.37,
+          "unit": "mmol/L",
+          "date": "2025-07-13T16:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 2.17,
+          "unit": "mIE/L",
+          "date": "2025-06-19T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.75,
+          "unit": "mmol/L",
+          "date": "2025-05-23T16:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 2.42,
+          "unit": "mIE/L",
+          "date": "2025-05-14T16:18:58.744Z"
         }
       ]
     },
@@ -174,6 +516,72 @@
           "value": 1.2,
           "unit": "mmol/L",
           "date": "2026-04-03T18:18:58.744345"
+        },
+        {
+          "label": "fP--Triglycerider",
+          "value": 2.38,
+          "unit": "mmol/L",
+          "date": "2026-02-18T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 5.58,
+          "unit": "mmol/L",
+          "date": "2026-02-12T17:18:58.744Z"
+        },
+        {
+          "label": "P-HDL-kolesterol",
+          "value": 1.23,
+          "unit": "mmol/L",
+          "date": "2026-01-06T17:18:58.744Z"
+        },
+        {
+          "label": "fP--Triglycerider",
+          "value": 2.32,
+          "unit": "mmol/L",
+          "date": "2025-12-21T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 6.1,
+          "unit": "mmol/L",
+          "date": "2025-12-10T17:18:58.744Z"
+        },
+        {
+          "label": "P-HDL-kolesterol",
+          "value": 1.1,
+          "unit": "mmol/L",
+          "date": "2025-12-05T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 5.62,
+          "unit": "mmol/L",
+          "date": "2025-11-07T17:18:58.744Z"
+        },
+        {
+          "label": "fP--Triglycerider",
+          "value": 2.35,
+          "unit": "mmol/L",
+          "date": "2025-10-16T16:18:58.744Z"
+        },
+        {
+          "label": "P-HDL-kolesterol",
+          "value": 1.17,
+          "unit": "mmol/L",
+          "date": "2025-09-12T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 5.83,
+          "unit": "mmol/L",
+          "date": "2025-09-01T16:18:58.744Z"
+        },
+        {
+          "label": "P-HDL-kolesterol",
+          "value": 1.29,
+          "unit": "mmol/L",
+          "date": "2025-07-11T16:18:58.744Z"
         }
       ]
     },
@@ -201,6 +609,24 @@
           "value": 4.6,
           "unit": "mmol/L",
           "date": "2026-01-13T18:18:58.744345"
+        },
+        {
+          "label": "P-Kalium",
+          "value": 5.5,
+          "unit": "mmol/L",
+          "date": "2025-10-16T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kalium",
+          "value": 4.32,
+          "unit": "mmol/L",
+          "date": "2025-07-20T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kalium",
+          "value": 5.03,
+          "unit": "mmol/L",
+          "date": "2025-05-25T16:18:58.744Z"
         }
       ]
     },
@@ -222,6 +648,66 @@
           "value": 68,
           "unit": "µmol/L",
           "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 149.38,
+          "unit": "mmol/L",
+          "date": "2026-03-06T17:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 148.74,
+          "unit": "mmol/L",
+          "date": "2026-01-29T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 77.92,
+          "unit": "µmol/L",
+          "date": "2026-01-17T17:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 122.83,
+          "unit": "mmol/L",
+          "date": "2025-12-04T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 68.47,
+          "unit": "µmol/L",
+          "date": "2025-10-29T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 75.2,
+          "unit": "µmol/L",
+          "date": "2025-09-25T16:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 140.67,
+          "unit": "mmol/L",
+          "date": "2025-09-11T16:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 141.88,
+          "unit": "mmol/L",
+          "date": "2025-08-10T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 76.1,
+          "unit": "µmol/L",
+          "date": "2025-07-15T16:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 156.13,
+          "unit": "mmol/L",
+          "date": "2025-06-27T16:18:58.744Z"
         }
       ]
     },
@@ -243,6 +729,72 @@
           "value": 92,
           "unit": "µmol/L",
           "date": "2026-04-10T18:18:58.744345"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 104.46,
+          "unit": "µmol/L",
+          "date": "2026-02-05T17:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 120.8,
+          "unit": "mmol/L",
+          "date": "2026-01-22T17:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 152.15,
+          "unit": "mmol/L",
+          "date": "2025-11-28T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 104.37,
+          "unit": "µmol/L",
+          "date": "2025-11-18T17:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 137.92,
+          "unit": "mmol/L",
+          "date": "2025-10-23T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 81.4,
+          "unit": "µmol/L",
+          "date": "2025-08-29T16:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 135.89,
+          "unit": "mmol/L",
+          "date": "2025-08-07T16:18:58.744Z"
+        },
+        {
+          "label": "P-Natrium",
+          "value": 138,
+          "unit": "mmol/L",
+          "date": "2025-06-30T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 95.02,
+          "unit": "µmol/L",
+          "date": "2025-06-17T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 99.27,
+          "unit": "µmol/L",
+          "date": "2025-05-16T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 103.49,
+          "unit": "µmol/L",
+          "date": "2025-04-08T16:18:58.744Z"
         }
       ]
     },
@@ -270,6 +822,90 @@
           "value": 15.2,
           "unit": "10*9/L",
           "date": "2026-04-06T18:18:58.744345"
+        },
+        {
+          "label": "B--Leukocyter",
+          "value": 15.36,
+          "unit": "10*9/L",
+          "date": "2026-02-15T17:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 117.13,
+          "unit": "g/L",
+          "date": "2026-02-04T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 0.88,
+          "unit": "mIE/L",
+          "date": "2026-01-28T17:18:58.744Z"
+        },
+        {
+          "label": "B--Leukocyter",
+          "value": 15.22,
+          "unit": "10*9/L",
+          "date": "2026-01-15T17:18:58.744Z"
+        },
+        {
+          "label": "B--Leukocyter",
+          "value": 14.56,
+          "unit": "10*9/L",
+          "date": "2025-11-20T17:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 92.93,
+          "unit": "g/L",
+          "date": "2025-11-15T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 0.91,
+          "unit": "mIE/L",
+          "date": "2025-11-09T17:18:58.744Z"
+        },
+        {
+          "label": "B--Leukocyter",
+          "value": 13.7,
+          "unit": "10*9/L",
+          "date": "2025-10-11T16:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 0.82,
+          "unit": "mIE/L",
+          "date": "2025-09-25T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 111.16,
+          "unit": "g/L",
+          "date": "2025-08-25T16:18:58.744Z"
+        },
+        {
+          "label": "B--Leukocyter",
+          "value": 15.19,
+          "unit": "10*9/L",
+          "date": "2025-08-10T16:18:58.744Z"
+        },
+        {
+          "label": "B--Leukocyter",
+          "value": 13.14,
+          "unit": "10*9/L",
+          "date": "2025-07-02T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 110.41,
+          "unit": "g/L",
+          "date": "2025-06-24T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 100.42,
+          "unit": "g/L",
+          "date": "2025-04-17T16:18:58.744Z"
         }
       ]
     },
@@ -282,7 +918,7 @@
       "tests": [
         {
           "label": "TSH",
-          "value": 2.0,
+          "value": 2,
           "unit": "mIE/L",
           "date": "2026-04-13T18:18:58.744345"
         },
@@ -291,6 +927,60 @@
           "value": 3.5,
           "unit": "mmol/L",
           "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.92,
+          "unit": "mmol/L",
+          "date": "2026-02-25T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 1.85,
+          "unit": "mIE/L",
+          "date": "2026-02-20T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.23,
+          "unit": "mmol/L",
+          "date": "2026-01-24T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 2.21,
+          "unit": "mIE/L",
+          "date": "2025-12-02T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.84,
+          "unit": "mmol/L",
+          "date": "2025-11-17T17:18:58.744Z"
+        },
+        {
+          "label": "TSH",
+          "value": 1.76,
+          "unit": "mIE/L",
+          "date": "2025-10-21T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.59,
+          "unit": "mmol/L",
+          "date": "2025-09-14T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.95,
+          "unit": "mmol/L",
+          "date": "2025-06-27T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.78,
+          "unit": "mmol/L",
+          "date": "2025-05-16T16:18:58.744Z"
         }
       ]
     },
@@ -312,6 +1002,48 @@
           "value": 110,
           "unit": "g/L",
           "date": "2026-04-08T18:18:58.744345"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 103.38,
+          "unit": "g/L",
+          "date": "2026-02-21T17:18:58.744Z"
+        },
+        {
+          "label": "S-Kobalamin",
+          "value": 116.88,
+          "unit": "pmol/L",
+          "date": "2026-02-13T17:18:58.744Z"
+        },
+        {
+          "label": "S-Kobalamin",
+          "value": 123.35,
+          "unit": "pmol/L",
+          "date": "2025-12-13T17:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 97.52,
+          "unit": "g/L",
+          "date": "2025-11-24T17:18:58.744Z"
+        },
+        {
+          "label": "S-Kobalamin",
+          "value": 130.46,
+          "unit": "pmol/L",
+          "date": "2025-09-29T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 115.83,
+          "unit": "g/L",
+          "date": "2025-09-24T16:18:58.744Z"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 100.01,
+          "unit": "g/L",
+          "date": "2025-08-02T16:18:58.744Z"
         }
       ]
     },
@@ -333,6 +1065,60 @@
           "value": 2.4,
           "unit": "mmol/L",
           "date": "2026-03-24T18:18:58.744345"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 4.33,
+          "unit": "mmol/L",
+          "date": "2026-01-07T17:18:58.744Z"
+        },
+        {
+          "label": "fP--LDL-kolesterol",
+          "value": 2.41,
+          "unit": "mmol/L",
+          "date": "2025-12-25T17:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 4.7,
+          "unit": "mmol/L",
+          "date": "2025-11-17T17:18:58.744Z"
+        },
+        {
+          "label": "fP--LDL-kolesterol",
+          "value": 2.68,
+          "unit": "mmol/L",
+          "date": "2025-10-19T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 4.09,
+          "unit": "mmol/L",
+          "date": "2025-09-23T16:18:58.744Z"
+        },
+        {
+          "label": "fP--LDL-kolesterol",
+          "value": 2.4,
+          "unit": "mmol/L",
+          "date": "2025-08-31T16:18:58.744Z"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 4.4,
+          "unit": "mmol/L",
+          "date": "2025-08-04T16:18:58.744Z"
+        },
+        {
+          "label": "fP--LDL-kolesterol",
+          "value": 2.16,
+          "unit": "mmol/L",
+          "date": "2025-06-11T16:18:58.744Z"
+        },
+        {
+          "label": "fP--LDL-kolesterol",
+          "value": 2.08,
+          "unit": "mmol/L",
+          "date": "2025-04-11T16:18:58.744Z"
         }
       ]
     },
@@ -354,6 +1140,78 @@
           "value": 48,
           "unit": "kPa",
           "date": "2026-04-11T18:18:58.744345"
+        },
+        {
+          "label": "aB--pH (37°C)",
+          "value": 6.55,
+          "unit": "pH",
+          "date": "2026-02-23T17:18:58.744Z"
+        },
+        {
+          "label": "aB--pCO2",
+          "value": 42.17,
+          "unit": "kPa",
+          "date": "2026-02-16T17:18:58.744Z"
+        },
+        {
+          "label": "aB--pCO2",
+          "value": 44.19,
+          "unit": "kPa",
+          "date": "2025-12-29T17:18:58.744Z"
+        },
+        {
+          "label": "aB--pH (37°C)",
+          "value": 7.77,
+          "unit": "pH",
+          "date": "2025-12-28T17:18:58.744Z"
+        },
+        {
+          "label": "aB--pCO2",
+          "value": 49.89,
+          "unit": "kPa",
+          "date": "2025-11-10T17:18:58.744Z"
+        },
+        {
+          "label": "aB--pH (37°C)",
+          "value": 6.69,
+          "unit": "pH",
+          "date": "2025-10-06T16:18:58.744Z"
+        },
+        {
+          "label": "aB--pCO2",
+          "value": 49.91,
+          "unit": "kPa",
+          "date": "2025-10-05T16:18:58.744Z"
+        },
+        {
+          "label": "aB--pCO2",
+          "value": 53.15,
+          "unit": "kPa",
+          "date": "2025-09-04T16:18:58.744Z"
+        },
+        {
+          "label": "aB--pH (37°C)",
+          "value": 6.73,
+          "unit": "pH",
+          "date": "2025-07-22T16:18:58.744Z"
+        },
+        {
+          "label": "aB--pCO2",
+          "value": 47.19,
+          "unit": "kPa",
+          "date": "2025-06-30T16:18:58.744Z"
+        },
+        {
+          "label": "aB--pH (37°C)",
+          "value": 7.06,
+          "unit": "pH",
+          "date": "2025-06-17T16:18:58.744Z"
+        },
+        {
+          "label": "aB--pH (37°C)",
+          "value": 8.04,
+          "unit": "pH",
+          "date": "2025-03-30T16:18:58.744Z"
         }
       ]
     }

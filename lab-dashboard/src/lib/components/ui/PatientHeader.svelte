@@ -13,25 +13,26 @@
 </script>
 
 <div class="patient-header">
-	<div class="info-section">
-		<h1>{patient.name}</h1>
-		<div class="details">
-			<span class="detail-item">
-				<span class="label">ID</span>
-				<span class="value">{patient.id}</span>
-			</span>
-			<span class="detail-item">
-				<span class="label">Gender</span>
-				<span class="value">{genderDisplay}</span>
-			</span>
-			<span class="detail-item">
-				<span class="label">Age</span>
-				<span class="value">{age} years</span>
-			</span>
-			<span class="detail-item">
-				<span class="label">Personnel Number</span>
-				<span class="value">{patient.personnummer}</span>
-			</span>
+	<div class="details">
+		<div class="detail-item">
+			<span class="label">Patient ID</span>
+			<span class="value">{patient.id}</span>
+		</div>
+		<div class="detail-item">
+			<span class="label">Gender</span>
+			<span class="value">{genderDisplay}</span>
+		</div>
+		<div class="detail-item">
+			<span class="label">Age</span>
+			<span class="value">{age} years</span>
+		</div>
+		<div class="detail-item">
+			<span class="label">Person NR</span>
+			<span class="value">{patient.personnummer}</span>
+		</div>
+		<div class="detail-item">
+			<span class="label">Born</span>
+			<span class="value">{new Date(patient.birth_date).toLocaleDateString('sv-SE')}</span>
 		</div>
 	</div>
 </div>
@@ -40,42 +41,41 @@
 	.patient-header {
 		background-color: #1e293b;
 		border: 1px solid #334155;
-		border-radius: 0.75rem;
-		padding: 1.5rem;
-		margin-bottom: 2rem;
-		box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-	}
-
-	.info-section h1 {
-		margin: 0 0 1rem 0;
-		font-size: 2rem;
-		font-weight: 700;
-		color: #e2e8f0;
+		border-radius: 0.5rem;
+		padding: 1rem 1.25rem;
+		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 	}
 
 	.details {
-		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-		gap: 1.5rem;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 2rem;
+		align-items: center;
 	}
 
 	.detail-item {
 		display: flex;
 		flex-direction: column;
-		gap: 0.25rem;
+		gap: 0.125rem;
 	}
 
 	.label {
-		font-size: 0.75rem;
-		font-weight: 600;
-		color: #94a3b8;
+		font-size: 0.65rem;
+		font-weight: 700;
+		color: #64748b;
 		text-transform: uppercase;
-		letter-spacing: 0.025em;
+		letter-spacing: 0.05em;
 	}
 
 	.value {
-		font-size: 0.95rem;
-		font-weight: 500;
-		color: #cbd5e1;
+		font-size: 0.875rem;
+		font-weight: 600;
+		color: #e2e8f0;
+	}
+
+	@media (max-width: 640px) {
+		.details {
+			gap: 1rem;
+		}
 	}
 </style>

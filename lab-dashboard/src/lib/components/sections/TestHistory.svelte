@@ -4,11 +4,12 @@
 
 	interface Props {
 		tests: TestAnalysis[];
+		onSelectTest?: (label: string) => void;
 	}
 
-	const { tests }: Props = $props();
+	const { tests, onSelectTest }: Props = $props();
 
-	// Group tests by label for better visualization
+	// Group tests by label to pass history to cards
 	const groupedTests = $derived.by(() => {
 		const groups: Record<string, TestAnalysis[]> = {};
 
@@ -20,37 +21,26 @@
 		}
 
 		// Sort each group by date (newest first)
-		for (const label in groups) {
-			groups[label].sort(
-				(a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-			);
-		}
-
 		return Object.entries(groups).map(([label, testList]) => ({
 			label,
-			tests: testList
+			history: testList.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
 		}));
 	});
 </script>
 
 <div class="test-history">
-	<h2>Test Results</h2>
-
 	{#if tests.length === 0}
 		<div class="no-tests">
 			<p>No test results available for this patient.</p>
 		</div>
 	{:else}
-		<div class="test-groups">
+		<div class="tests-grid">
 			{#each groupedTests as group (group.label)}
-				<div class="test-group">
-					<h3>{group.label}</h3>
-					<div class="tests-list">
-						{#each group.tests as test (test.date)}
-							<TestResultCard {test} />
-						{/each}
-					</div>
-				</div>
+				<TestResultCard 
+					label={group.label} 
+					history={group.history} 
+					onclick={() => onSelectTest?.(group.label)}
+				/>
 			{/each}
 		</div>
 	{/if}
@@ -59,13 +49,9 @@
 <style>
 	.test-history {
 		width: 100%;
-	}
-
-	.test-history h2 {
-		margin: 0 0 1.5rem 0;
-		font-size: 1.5rem;
-		font-weight: 700;
-		color: #e2e8f0;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
 	}
 
 	.no-tests {
@@ -76,36 +62,16 @@
 		text-align: center;
 	}
 
-	.no-tests p {
-		margin: 0;
-		color: #94a3b8;
+	.tests-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+		gap: 1rem;
+		align-content: start;
 	}
 
-	.test-groups {
-		display: flex;
-		flex-direction: column;
-		gap: 2rem;
-	}
-
-	.test-group {
-		border-bottom: 1px solid #334155;
-		padding-bottom: 1.5rem;
-	}
-
-	.test-group:last-child {
-		border-bottom: none;
-	}
-
-	.test-group h3 {
-		margin: 0 0 1rem 0;
-		font-size: 1.125rem;
-		font-weight: 600;
-		color: #cbd5e1;
-	}
-
-	.tests-list {
-		display: flex;
-		flex-direction: column;
-		gap: 0.5rem;
+	@media (max-width: 640px) {
+		.tests-grid {
+			grid-template-columns: 1fr;
+		}
 	}
 </style>
