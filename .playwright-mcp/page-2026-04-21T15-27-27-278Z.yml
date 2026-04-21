@@ -1,0 +1,130 @@
+- generic [ref=e4]:
+  - button "Close sidebar" [ref=e124]
+  - complementary [ref=e11]:
+    - generic [ref=e12]:
+      - heading "Patients" [level=2] [ref=e13]
+      - button "Close patients menu" [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+    - generic [ref=e18]:
+      - button "Alex Johansson (14y) P006" [ref=e19] [cursor=pointer]:
+        - generic [ref=e20]: Alex Johansson (14y)
+        - generic [ref=e21]: P006
+      - button "Anna Westberg (25y) P007" [ref=e22] [cursor=pointer]:
+        - generic [ref=e23]: Anna Westberg (25y)
+        - generic [ref=e24]: P007
+      - button "Birgitta Eklund (64y) P015" [ref=e25] [cursor=pointer]:
+        - generic [ref=e26]: Birgitta Eklund (64y)
+        - generic [ref=e27]: P015
+      - button "Emma Andersson (0y) P001" [ref=e28] [cursor=pointer]:
+        - generic [ref=e29]: Emma Andersson (0y)
+        - generic [ref=e30]: P001
+      - button "Gunnar Höglund (71y) P010" [ref=e31] [cursor=pointer]:
+        - generic [ref=e32]: Gunnar Höglund (71y)
+        - generic [ref=e33]: P010
+      - button "Ingrid Norström (47y) P009" [ref=e34] [cursor=pointer]:
+        - generic [ref=e35]: Ingrid Norström (47y)
+        - generic [ref=e36]: P009
+      - button "Klara Ström (28y) P013" [ref=e37] [cursor=pointer]:
+        - generic [ref=e38]: Klara Ström (28y)
+        - generic [ref=e39]: P013
+      - button "Liam Ekström (4y) P004" [ref=e40] [cursor=pointer]:
+        - generic [ref=e41]: Liam Ekström (4y)
+        - generic [ref=e42]: P004
+      - button "Maja Svensson (1y) P003" [active] [ref=e43] [cursor=pointer]:
+        - generic [ref=e44]: Maja Svensson (1y)
+        - generic [ref=e45]: P003
+      - button "Marcus Karlsson (35y) P008" [ref=e46] [cursor=pointer]:
+        - generic [ref=e47]: Marcus Karlsson (35y)
+        - generic [ref=e48]: P008
+      - button "Nora Bergman (5y) P011" [ref=e49] [cursor=pointer]:
+        - generic [ref=e50]: Nora Bergman (5y)
+        - generic [ref=e51]: P011
+      - button "Oscar Bergström (0y) P002" [ref=e52] [cursor=pointer]:
+        - generic [ref=e53]: Oscar Bergström (0y)
+        - generic [ref=e54]: P002
+      - button "Robert Falk (41y) P014" [ref=e55] [cursor=pointer]:
+        - generic [ref=e56]: Robert Falk (41y)
+        - generic [ref=e57]: P014
+      - button "Sofia Lindström (7y) P005" [ref=e58] [cursor=pointer]:
+        - generic [ref=e59]: Sofia Lindström (7y)
+        - generic [ref=e60]: P005
+      - button "Viktor Larsson (16y) P012" [ref=e61] [cursor=pointer]:
+        - generic [ref=e62]: Viktor Larsson (16y)
+        - generic [ref=e63]: P012
+  - main [ref=e5]:
+    - heading "Lab Analysis Dashboard" [level=1] [ref=e7]
+    - generic [ref=e8]:
+      - generic [ref=e65]:
+        - heading "Maja Svensson" [level=1] [ref=e125]
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - generic [ref=e69]: ID
+            - generic [ref=e70]: P003
+          - generic [ref=e71]:
+            - generic [ref=e72]: Gender
+            - generic [ref=e73]: Female
+          - generic [ref=e74]:
+            - generic [ref=e75]: Age
+            - generic [ref=e76]: 1 years
+          - generic [ref=e77]:
+            - generic [ref=e78]: Personnel Number
+            - generic [ref=e79]: 20241013-1003
+      - generic [ref=e80]:
+        - heading "Test Results" [level=2] [ref=e81]
+        - generic [ref=e82]:
+          - generic [ref=e83]:
+            - heading "TSH" [level=3] [ref=e84]
+            - generic [ref=e85]:
+              - generic [ref=e126]:
+                - generic [ref=e127]:
+                  - heading "TSH" [level=3] [ref=e128]
+                  - generic [ref=e129]: High
+                - generic [ref=e130]:
+                  - generic [ref=e131]:
+                    - generic [ref=e132]: Value
+                    - generic [ref=e133]: 8.2 mIE/L
+                  - generic [ref=e134]:
+                    - generic [ref=e135]: Reference Range
+                    - generic [ref=e136]: 0.7 - 6 mIE/L
+                  - generic [ref=e137]:
+                    - generic [ref=e138]: Age Group
+                    - generic [ref=e139]: 1 - 6 år
+                  - generic [ref=e140]:
+                    - generic [ref=e141]: Date
+                    - generic [ref=e142]: 2026-04-08
+              - generic [ref=e143]:
+                - generic [ref=e144]:
+                  - heading "TSH" [level=3] [ref=e145]
+                  - generic [ref=e146]: High
+                - generic [ref=e147]:
+                  - generic [ref=e148]:
+                    - generic [ref=e149]: Value
+                    - generic [ref=e150]: 7.9 mIE/L
+                  - generic [ref=e151]:
+                    - generic [ref=e152]: Reference Range
+                    - generic [ref=e153]: 0.7 - 6 mIE/L
+                  - generic [ref=e154]:
+                    - generic [ref=e155]: Age Group
+                    - generic [ref=e156]: 1 - 6 år
+                  - generic [ref=e157]:
+                    - generic [ref=e158]: Date
+                    - generic [ref=e159]: 2026-02-12
+          - generic [ref=e103]:
+            - heading "T4 (fritt)" [level=3] [ref=e104]
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - heading "T4 (fritt)" [level=3] [ref=e162]
+                - generic [ref=e163]: Normal
+              - generic [ref=e164]:
+                - generic [ref=e165]:
+                  - generic [ref=e166]: Value
+                  - generic [ref=e167]: 14.2 pmol/L
+                - generic [ref=e168]:
+                  - generic [ref=e169]: Reference Range
+                  - generic [ref=e170]: 12 - 23 pmol/L
+                - generic [ref=e171]:
+                  - generic [ref=e172]: Age Group
+                  - generic [ref=e173]: 1 - 6 år
+                - generic [ref=e174]:
+                  - generic [ref=e175]: Date
+                  - generic [ref=e176]: 2026-04-08

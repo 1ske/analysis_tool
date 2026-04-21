@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-13T18:18:58.744510",
+    "description": "Synthetic patient data for testing and demonstration",
+    "total_patients": 15,
+    "patient_age_range": "Newborn to 72 years"
+  },
+  "patients": [
+    {
+      "id": "P001",
+      "personnummer": "20260410-1001",
+      "name": "Emma Andersson",
+      "gender": "female",
+      "birth_date": "2026-04-10T18:18:58.744345",
+      "tests": [
+        {
+          "label": "TSH",
+          "value": 3.5,
+          "unit": "mIE/L",
+          "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "T4 (fritt)",
+          "value": 18.5,
+          "unit": "pmol/L",
+          "date": "2026-04-13T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P002",
+      "personnummer": "20260302-1002",
+      "name": "Oscar Bergström",
+      "gender": "male",
+      "birth_date": "2026-03-02T18:18:58.744345",
+      "tests": [
+        {
+          "label": "TSH",
+          "value": 2.1,
+          "unit": "mIE/L",
+          "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 130,
+          "unit": "g/L",
+          "date": "2026-04-13T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "personnummer": "20241013-1003",
+      "name": "Maja Svensson",
+      "gender": "female",
+      "birth_date": "2024-10-13T18:18:58.744345",
+      "tests": [
+        {
+          "label": "TSH",
+          "value": 8.2,
+          "unit": "mIE/L",
+          "date": "2026-04-08T18:18:58.744345"
+        },
+        {
+          "label": "TSH",
+          "value": 7.9,
+          "unit": "mIE/L",
+          "date": "2026-02-12T18:18:58.744345"
+        },
+        {
+          "label": "T4 (fritt)",
+          "value": 14.2,
+          "unit": "pmol/L",
+          "date": "2026-04-08T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "personnummer": "20220414-1004",
+      "name": "Liam Ekström",
+      "gender": "male",
+      "birth_date": "2022-04-14T18:18:58.744345",
+      "tests": [
+        {
+          "label": "P-Natrium",
+          "value": 140,
+          "unit": "mmol/L",
+          "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "P-Kalium",
+          "value": 4.0,
+          "unit": "mmol/L",
+          "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 115,
+          "unit": "g/L",
+          "date": "2026-04-13T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "personnummer": "20190415-1005",
+      "name": "Sofia Lindström",
+      "gender": "female",
+      "birth_date": "2019-04-15T18:18:58.744345",
+      "tests": [
+        {
+          "label": "Hemoglobin",
+          "value": 95,
+          "unit": "g/L",
+          "date": "2026-04-11T18:18:58.744345"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 98,
+          "unit": "g/L",
+          "date": "2026-01-13T18:18:58.744345"
+        },
+        {
+          "label": "P-Järn",
+          "value": 8.5,
+          "unit": "µmol/L",
+          "date": "2026-04-11T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "personnummer": "20120416-1006",
+      "name": "Alex Johansson",
+      "gender": "male",
+      "birth_date": "2012-04-16T18:18:58.744345",
+      "tests": [
+        {
+          "label": "TSH",
+          "value": 2.5,
+          "unit": "mIE/L",
+          "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.8,
+          "unit": "mmol/L",
+          "date": "2026-04-13T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "personnummer": "20010413-1007",
+      "name": "Anna Westberg",
+      "gender": "female",
+      "birth_date": "2001-04-13T18:18:58.744345",
+      "tests": [
+        {
+          "label": "P-Kolesterol",
+          "value": 5.8,
+          "unit": "mmol/L",
+          "date": "2026-04-03T18:18:58.744345"
+        },
+        {
+          "label": "fP--Triglycerider",
+          "value": 2.1,
+          "unit": "mmol/L",
+          "date": "2026-04-03T18:18:58.744345"
+        },
+        {
+          "label": "P-HDL-kolesterol",
+          "value": 1.2,
+          "unit": "mmol/L",
+          "date": "2026-04-03T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "personnummer": "19910413-1008",
+      "name": "Marcus Karlsson",
+      "gender": "male",
+      "birth_date": "1991-04-13T18:18:58.744345",
+      "tests": [
+        {
+          "label": "P-Kalium",
+          "value": 4.8,
+          "unit": "mmol/L",
+          "date": "2026-04-12T18:18:58.744345"
+        },
+        {
+          "label": "P-Kalium",
+          "value": 4.9,
+          "unit": "mmol/L",
+          "date": "2026-03-14T18:18:58.744345"
+        },
+        {
+          "label": "P-Kalium",
+          "value": 4.6,
+          "unit": "mmol/L",
+          "date": "2026-01-13T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "personnummer": "19780425-1009",
+      "name": "Ingrid Norström",
+      "gender": "female",
+      "birth_date": "1978-04-25T18:18:58.744345",
+      "tests": [
+        {
+          "label": "P-Natrium",
+          "value": 138,
+          "unit": "mmol/L",
+          "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 68,
+          "unit": "µmol/L",
+          "date": "2026-04-13T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "personnummer": "19540501-1010",
+      "name": "Gunnar Höglund",
+      "gender": "male",
+      "birth_date": "1954-05-01T18:18:58.744345",
+      "tests": [
+        {
+          "label": "P-Natrium",
+          "value": 134,
+          "unit": "mmol/L",
+          "date": "2026-04-10T18:18:58.744345"
+        },
+        {
+          "label": "P-Kreatinin",
+          "value": 92,
+          "unit": "µmol/L",
+          "date": "2026-04-10T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P011",
+      "personnummer": "20210414-1011",
+      "name": "Nora Bergman",
+      "gender": "female",
+      "birth_date": "2021-04-14T18:18:58.744345",
+      "tests": [
+        {
+          "label": "TSH",
+          "value": 0.8,
+          "unit": "mIE/L",
+          "date": "2026-04-06T18:18:58.744345"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 108,
+          "unit": "g/L",
+          "date": "2026-04-06T18:18:58.744345"
+        },
+        {
+          "label": "B--Leukocyter",
+          "value": 15.2,
+          "unit": "10*9/L",
+          "date": "2026-04-06T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P012",
+      "personnummer": "20100417-1012",
+      "name": "Viktor Larsson",
+      "gender": "male",
+      "birth_date": "2010-04-17T18:18:58.744345",
+      "tests": [
+        {
+          "label": "TSH",
+          "value": 2.0,
+          "unit": "mIE/L",
+          "date": "2026-04-13T18:18:58.744345"
+        },
+        {
+          "label": "P-Kolesterol",
+          "value": 3.5,
+          "unit": "mmol/L",
+          "date": "2026-04-13T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P013",
+      "personnummer": "19980413-1013",
+      "name": "Klara Ström",
+      "gender": "female",
+      "birth_date": "1998-04-13T18:18:58.744345",
+      "tests": [
+        {
+          "label": "S-Kobalamin",
+          "value": 120,
+          "unit": "pmol/L",
+          "date": "2026-04-08T18:18:58.744345"
+        },
+        {
+          "label": "Hemoglobin",
+          "value": 110,
+          "unit": "g/L",
+          "date": "2026-04-08T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P014",
+      "personnummer": "19840423-1014",
+      "name": "Robert Falk",
+      "gender": "male",
+      "birth_date": "1984-04-23T18:18:58.744345",
+      "tests": [
+        {
+          "label": "P-Kolesterol",
+          "value": 4.2,
+          "unit": "mmol/L",
+          "date": "2026-03-24T18:18:58.744345"
+        },
+        {
+          "label": "fP--LDL-kolesterol",
+          "value": 2.4,
+          "unit": "mmol/L",
+          "date": "2026-03-24T18:18:58.744345"
+        }
+      ]
+    },
+    {
+      "id": "P015",
+      "personnummer": "19610429-1015",
+      "name": "Birgitta Eklund",
+      "gender": "female",
+      "birth_date": "1961-04-29T18:18:58.744345",
+      "tests": [
+        {
+          "label": "aB--pH (37°C)",
+          "value": 7.32,
+          "unit": "pH",
+          "date": "2026-04-11T18:18:58.744345"
+        },
+        {
+          "label": "aB--pCO2",
+          "value": 48,
+          "unit": "kPa",
+          "date": "2026-04-11T18:18:58.744345"
+        }
+      ]
+    }
+  ]
+}

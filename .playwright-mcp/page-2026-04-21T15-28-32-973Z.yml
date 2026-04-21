@@ -1,0 +1,106 @@
+- generic [ref=e4]:
+  - button "Close sidebar" [ref=e124]
+  - complementary [ref=e11]:
+    - generic [ref=e12]:
+      - heading "Patients" [level=2] [ref=e13]
+      - button "Close patients menu" [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+    - generic [ref=e18]:
+      - button "Alex Johansson (14y) P006" [ref=e19] [cursor=pointer]:
+        - generic [ref=e20]: Alex Johansson (14y)
+        - generic [ref=e21]: P006
+      - button "Anna Westberg (25y) P007" [ref=e22] [cursor=pointer]:
+        - generic [ref=e23]: Anna Westberg (25y)
+        - generic [ref=e24]: P007
+      - button "Birgitta Eklund (64y) P015" [ref=e25] [cursor=pointer]:
+        - generic [ref=e26]: Birgitta Eklund (64y)
+        - generic [ref=e27]: P015
+      - button "Emma Andersson (0y) P001" [ref=e28] [cursor=pointer]:
+        - generic [ref=e29]: Emma Andersson (0y)
+        - generic [ref=e30]: P001
+      - button "Gunnar Höglund (71y) P010" [ref=e31] [cursor=pointer]:
+        - generic [ref=e32]: Gunnar Höglund (71y)
+        - generic [ref=e33]: P010
+      - button "Ingrid Norström (47y) P009" [ref=e34] [cursor=pointer]:
+        - generic [ref=e35]: Ingrid Norström (47y)
+        - generic [ref=e36]: P009
+      - button "Klara Ström (28y) P013" [active] [ref=e37] [cursor=pointer]:
+        - generic [ref=e38]: Klara Ström (28y)
+        - generic [ref=e39]: P013
+      - button "Liam Ekström (4y) P004" [ref=e40] [cursor=pointer]:
+        - generic [ref=e41]: Liam Ekström (4y)
+        - generic [ref=e42]: P004
+      - button "Maja Svensson (1y) P003" [ref=e43] [cursor=pointer]:
+        - generic [ref=e44]: Maja Svensson (1y)
+        - generic [ref=e45]: P003
+      - button "Marcus Karlsson (35y) P008" [ref=e46] [cursor=pointer]:
+        - generic [ref=e47]: Marcus Karlsson (35y)
+        - generic [ref=e48]: P008
+      - button "Nora Bergman (5y) P011" [ref=e49] [cursor=pointer]:
+        - generic [ref=e50]: Nora Bergman (5y)
+        - generic [ref=e51]: P011
+      - button "Oscar Bergström (0y) P002" [ref=e52] [cursor=pointer]:
+        - generic [ref=e53]: Oscar Bergström (0y)
+        - generic [ref=e54]: P002
+      - button "Robert Falk (41y) P014" [ref=e55] [cursor=pointer]:
+        - generic [ref=e56]: Robert Falk (41y)
+        - generic [ref=e57]: P014
+      - button "Sofia Lindström (7y) P005" [ref=e58] [cursor=pointer]:
+        - generic [ref=e59]: Sofia Lindström (7y)
+        - generic [ref=e60]: P005
+      - button "Viktor Larsson (16y) P012" [ref=e61] [cursor=pointer]:
+        - generic [ref=e62]: Viktor Larsson (16y)
+        - generic [ref=e63]: P012
+  - main [ref=e5]:
+    - heading "Lab Analysis Dashboard" [level=1] [ref=e7]
+    - generic [ref=e8]:
+      - generic [ref=e65]:
+        - heading "Klara Ström" [level=1] [ref=e217]
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - generic [ref=e69]: ID
+            - generic [ref=e70]: P013
+          - generic [ref=e71]:
+            - generic [ref=e72]: Gender
+            - generic [ref=e73]: Female
+          - generic [ref=e74]:
+            - generic [ref=e75]: Age
+            - generic [ref=e76]: 28 years
+          - generic [ref=e77]:
+            - generic [ref=e78]: Personnel Number
+            - generic [ref=e79]: 19980413-1013
+      - generic [ref=e80]:
+        - heading "Test Results" [level=2] [ref=e81]
+        - generic [ref=e82]:
+          - generic [ref=e218]:
+            - heading "S-Kobalamin" [level=3] [ref=e219]
+            - generic [ref=e221]:
+              - generic [ref=e222]:
+                - heading "S-Kobalamin" [level=3] [ref=e223]
+                - generic [ref=e224]: Low
+              - generic [ref=e225]:
+                - generic [ref=e226]:
+                  - generic [ref=e227]: Value
+                  - generic [ref=e228]: 120 pmol/L
+                - generic [ref=e229]:
+                  - generic [ref=e230]: Reference Range
+                  - generic [ref=e231]: 150 - 700 pmol/L
+                - generic [ref=e232]:
+                  - generic [ref=e233]: Age Group
+                  - generic [ref=e234]: Alla
+                - generic [ref=e235]:
+                  - generic [ref=e236]: Date
+                  - generic [ref=e237]: 2026-04-08
+          - generic [ref=e178]:
+            - heading "Hemoglobin" [level=3] [ref=e179]
+            - generic [ref=e238]:
+              - generic [ref=e239]:
+                - heading "Hemoglobin" [level=3] [ref=e240]
+                - generic [ref=e241]: Unknown
+              - generic [ref=e242]:
+                - generic [ref=e243]:
+                  - generic [ref=e244]: Value
+                  - generic [ref=e245]: 110 g/L
+                - generic [ref=e246]:
+                  - generic [ref=e247]: Date
+                  - generic [ref=e248]: 2026-04-08
