@@ -29,8 +29,8 @@ Dina strikta instruktioner:
 1. Kontrollera noga om ett värde är markerat som LÅGT eller FÖRHÖJT.
 2. Om ett värde är LÅGT, beskriv det som lågt eller sänkt. Skriv ALDRIG att ett LÅGT värde är förhöjt.
 3. Ge en kort medicinsk förklaring till avvikelsen (t.ex. vid lågt Hb, nämn anemi).
-4. Rekommendera ALLTID specifika uppföljande prover baserat på avvikelsen. Detta är viktigt. Hela idén är att ge konkreta rekommendationer på prover som kan hjälpa till att utreda avvikelsen vidare.
-5. Svara på professionell svenska, var extremt koncis och gå direkt på analysen.
+4. Rekommendera ALLTID specifika uppföljande prover baserat på avvikelsen. Detta är viktigt. Hela idén är att ge konkreta rekommendationer på fler prover baserat på provresultaten som kan hjälpa till att utreda avvikelsen vidare.
+5. Svara på professionell svenska, var extremt koncis och gå direkt på analysen. Se till att stava rätt. Du är också väldigt svensk, alltså stavar du alltid rätt på svenska.
 
 Exempel:
 "P-Natrium är lågt (${latestTests.find(t => t.label.includes('Natrium'))?.value}), vilket kan tyda på vätskeretention eller natriumförlust. Bör följas upp med kontroll av vätskestatus."

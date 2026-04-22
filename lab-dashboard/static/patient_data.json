@@ -8,10 +8,10 @@
   "patients": [
     {
       "id": "P001",
-      "personnummer": "20260410-1001",
+      "personnummer": "20020410-1001",
       "name": "Emma Andersson",
       "gender": "female",
-      "birth_date": "2026-04-10T18:18:58.744345",
+      "birth_date": "2002-04-10T18:18:58.744345",
       "tests": [
         {
           "label": "TSH",
@@ -407,14 +407,14 @@
     },
     {
       "id": "P006",
-      "personnummer": "20120416-1006",
+      "personnummer": "20010416-1006",
       "name": "Alex Johansson",
       "gender": "male",
-      "birth_date": "2012-04-16T18:18:58.744345",
+      "birth_date": "2001-04-16T18:18:58.744345",
       "tests": [
         {
           "label": "TSH",
-          "value": 2.5,
+          "value": 4.5,
           "unit": "mIE/L",
           "date": "2026-04-13T18:18:58.744345"
         },
