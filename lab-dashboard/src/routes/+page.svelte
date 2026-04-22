@@ -217,7 +217,8 @@
 
 	.dashboard-split {
 		display: grid;
-		grid-template-columns: 1fr 360px;
+		grid-template-columns: minmax(0, 1fr) 360px;
+		grid-template-rows: minmax(0, 1fr);
 		gap: 1rem;
 		height: 100%;
 		padding: 1rem;
@@ -229,12 +230,14 @@
 		flex-direction: column;
 		gap: 1rem;
 		min-width: 0;
+		min-height: 0;
 		height: 100%;
 	}
 
 	.ai-sidebar {
 		height: 100%;
 		min-width: 0;
+		min-height: 0;
 	}
 
 	.scrollable-grid {

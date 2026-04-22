@@ -2,7 +2,7 @@
   "metadata": {
     "generated_at": "2026-04-13T18:18:58.744510",
     "description": "Synthetic patient data for testing and demonstration",
-    "total_patients": 15,
+    "total_patients": 16,
     "patient_age_range": "Newborn to 72 years"
   },
   "patients": [
@@ -15,13 +15,13 @@
       "tests": [
         {
           "label": "TSH",
-          "value": 3.5,
+          "value": 0.5,
           "unit": "mIE/L",
           "date": "2026-04-13T18:18:58.744345"
         },
         {
           "label": "T4 (fritt)",
-          "value": 18.5,
+          "value": 38.5,
           "unit": "pmol/L",
           "date": "2026-04-13T18:18:58.744345"
         },
@@ -1213,6 +1213,51 @@
           "unit": "pH",
           "date": "2025-03-30T16:18:58.744Z"
         }
+      ]
+    },
+    {
+      "id": "P016",
+      "personnummer": "19810422-4521",
+      "name": "Johan Andersson",
+      "gender": "male",
+      "birth_date": "1981-04-22T08:00:00Z",
+      "tests": [
+        {"label": "TSH", "value": 2.1, "unit": "mIE/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "T4 (fritt)", "value": 17.5, "unit": "pmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "T3 (fritt)", "value": 5.0, "unit": "pmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "S-Kobalamin", "value": 350.0, "unit": "pmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P-Natrium", "value": 141.0, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P-Kalium", "value": 4.0, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P-Kreatinin", "value": 85.0, "unit": "µmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P-ALP", "value": 1.2, "unit": "µkat/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "B-Retikulocyter", "value": 60.0, "unit": "x10^9/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P/S-Haptoglobin", "value": 1.1, "unit": "g/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "Hemoglobin", "value": 155.0, "unit": "g/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "B--EVF", "value": 0.45, "unit": "", "date": "2026-04-22T09:30:00Z"},
+        {"label": "B--Erytrocyter", "value": 4.8, "unit": "x10^12/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "B--Leukocyter", "value": 5.5, "unit": "x10^9/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "B--Trombocyter", "value": 250.0, "unit": "x10^9/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "B--MCV", "value": 90.0, "unit": "fL", "date": "2026-04-22T09:30:00Z"},
+        {"label": "Erc(B)--MCH", "value": 30.0, "unit": "pg", "date": "2026-04-22T09:30:00Z"},
+        {"label": "Erc(B)--MCHC", "value": 340.0, "unit": "g/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P--Järn", "value": 20.0, "unit": "µmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P--Transferrin", "value": 2.5, "unit": "g/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P--Transferrinmättnadsgrad", "value": 0.3, "unit": "", "date": "2026-04-22T09:30:00Z"},
+        {"label": "aB--pH (37°C)", "value": 7.42, "unit": "pH", "date": "2026-04-22T09:30:00Z"},
+        {"label": "aB--pCO2", "value": 5.2, "unit": "kPa", "date": "2026-04-22T09:30:00Z"},
+        {"label": "aB--pO2 (37°C)", "value": 12.5, "unit": "kPa", "date": "2026-04-22T09:30:00Z"},
+        {"label": "aB--Bikarbonat (aktuellt)", "value": 23.5, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "aB--Calciumjon, fri", "value": 1.2, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "aB--Anjongap med K+", "value": 15.0, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P-Kolesterol", "value": 5.1, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "fP--Triglycerider", "value": 1.5, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P--HDL-kolesterol", "value": 1.2, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P--non-HDL-kolesterol", "value": 3.5, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "fP--LDL-kolesterol", "value": 3.2, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P--Triglycerider", "value": 1.6, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "P--LDL-kolesterol", "value": 3.3, "unit": "mmol/L", "date": "2026-04-22T09:30:00Z"},
+        {"label": "TSH", "value": 1.9, "unit": "mIE/L", "date": "2026-01-15T10:00:00Z"},
+        {"label": "Hemoglobin", "value": 152.0, "unit": "g/L", "date": "2026-01-15T10:00:00Z"}
       ]
     }
   ]
