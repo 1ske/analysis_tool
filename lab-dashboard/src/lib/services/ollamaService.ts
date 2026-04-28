@@ -5,9 +5,6 @@ export interface InsightStreamResponse {
 	done: boolean;
 }
 
-/**
- * Construct a Swedish prompt for the medical analysis
- */
 export function constructInsightPrompt(patient: Patient, latestTests: TestAnalysis[]): string {
 	const testSummary = latestTests
 		.map((t) => {
