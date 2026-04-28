@@ -1,0 +1,1871 @@
+- generic [ref=e3]:
+  - alertdialog [ref=e5]:
+    - generic [ref=e6]:
+      - heading "Den här delen av 1177 riktar sig till vårdpersonal" [level=1] [ref=e7]
+      - generic [ref=e8]:
+        - paragraph [ref=e9]:
+          - text: Vill du fortsätta läsa information riktad till
+          - strong [ref=e10]: vårdpersonal
+          - text: tryck på Fortsätt.
+        - paragraph [ref=e11]:
+          - text: På
+          - link "1177.se" [ref=e12] [cursor=pointer]:
+            - /url: https://www.1177.se/
+          - text: finns information och e-tjänster för dig som invånare.
+      - generic "Visa inte detta meddelande igen på denna enhet" [ref=e13] [cursor=pointer]:
+        - button [ref=e14]
+        - generic [ref=e15]: Visa inte detta meddelande igen på denna enhet
+      - button "Fortsätt" [ref=e16] [cursor=pointer]
+  - generic [ref=e17]:
+    - banner [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - link [ref=e25] [cursor=pointer]:
+              - /url: /
+              - img [ref=e26]
+            - generic [ref=e33]: för vårdpersonal
+            - button "Du har valt region Östergötland." [ref=e37] [cursor=pointer]:
+              - generic [ref=e38]: Du har valt region Östergötland.
+              - img [ref=e42]
+          - list [ref=e50]:
+            - listitem [ref=e51]:
+              - link "För invånare" [ref=e52] [cursor=pointer]:
+                - /url: https://www.1177.se/
+                - generic [ref=e55]: För invånare
+            - listitem [ref=e57]:
+              - button "Sök" [ref=e58] [cursor=pointer]:
+                - generic [ref=e61]: Sök
+        - navigation [ref=e66]:
+          - list [ref=e67]:
+            - listitem [ref=e68]:
+              - link "Start" [ref=e69] [cursor=pointer]:
+                - /url: /Ostergotland/
+                - generic [ref=e70]: Start
+            - listitem [ref=e71]:
+              - link "Kunskapsstöd" [ref=e72] [cursor=pointer]:
+                - /url: /Ostergotland/kunskapsstod/
+                - generic [ref=e73]: Kunskapsstöd
+            - listitem [ref=e74]:
+              - link "Om 1177 för vårdpersonal" [ref=e75] [cursor=pointer]:
+                - /url: /Ostergotland/om-1177-for-vardpersonal/
+                - generic [ref=e76]: Om 1177 för vårdpersonal
+    - generic [ref=e77]:
+      - generic [ref=e78]:
+        - navigation "brödsmulor" [ref=e82]:
+          - generic [ref=e83]: "Du är här:"
+          - list [ref=e84]:
+            - listitem [ref=e85]:
+              - link "Start" [ref=e86] [cursor=pointer]:
+                - /url: /Ostergotland/
+              - text: /
+            - listitem [ref=e87]:
+              - link "Kunskapsstöd" [ref=e88] [cursor=pointer]:
+                - /url: /Ostergotland/kunskapsstod/
+        - main [ref=e89]:
+          - generic [ref=e93]:
+            - generic [ref=e95]:
+              - generic [ref=e96]: "Sortera efter:"
+              - list [ref=e97]:
+                - listitem [ref=e98]:
+                  - generic [ref=e99]: A-Ö
+                - listitem [ref=e100]:
+                  - generic [ref=e101]: Ämnesområden
+                - listitem [ref=e102]:
+                  - generic [ref=e103]: Kliniska kunskapsstöd
+                - listitem [ref=e104]:
+                  - generic [ref=e105]: Vårdförlopp
+                - listitem [ref=e106]:
+                  - generic [ref=e107]: Vårdprogram
+                - listitem [ref=e108]:
+                  - generic [ref=e109]: Vårdriktlinjer
+            - list [ref=e112]:
+              - listitem [ref=e113]:
+                - link "#" [ref=e114] [cursor=pointer]:
+                  - /url: "##"
+              - listitem [ref=e115]:
+                - link "a" [ref=e116] [cursor=pointer]:
+                  - /url: "#a"
+              - listitem [ref=e117]:
+                - link "b" [ref=e118] [cursor=pointer]:
+                  - /url: "#b"
+              - listitem [ref=e119]:
+                - link "c" [ref=e120] [cursor=pointer]:
+                  - /url: "#c"
+              - listitem [ref=e121]:
+                - link "d" [ref=e122] [cursor=pointer]:
+                  - /url: "#d"
+              - listitem [ref=e123]:
+                - link "e" [ref=e124] [cursor=pointer]:
+                  - /url: "#e"
+              - listitem [ref=e125]:
+                - link "f" [ref=e126] [cursor=pointer]:
+                  - /url: "#f"
+              - listitem [ref=e127]:
+                - link "g" [ref=e128] [cursor=pointer]:
+                  - /url: "#g"
+              - listitem [ref=e129]:
+                - link "h" [ref=e130] [cursor=pointer]:
+                  - /url: "#h"
+              - listitem [ref=e131]:
+                - link "i" [ref=e132] [cursor=pointer]:
+                  - /url: "#i"
+              - listitem [ref=e133]:
+                - link "j" [ref=e134] [cursor=pointer]:
+                  - /url: "#j"
+              - listitem [ref=e135]:
+                - link "k" [ref=e136] [cursor=pointer]:
+                  - /url: "#k"
+              - listitem [ref=e137]:
+                - link "l" [ref=e138] [cursor=pointer]:
+                  - /url: "#l"
+              - listitem [ref=e139]:
+                - link "m" [ref=e140] [cursor=pointer]:
+                  - /url: "#m"
+              - listitem [ref=e141]:
+                - link "n" [ref=e142] [cursor=pointer]:
+                  - /url: "#n"
+              - listitem [ref=e143]:
+                - link "o" [ref=e144] [cursor=pointer]:
+                  - /url: "#o"
+              - listitem [ref=e145]:
+                - link "p" [ref=e146] [cursor=pointer]:
+                  - /url: "#p"
+              - listitem [ref=e147]:
+                - generic [ref=e148]: q
+              - listitem [ref=e149]:
+                - link "r" [ref=e150] [cursor=pointer]:
+                  - /url: "#r"
+              - listitem [ref=e151]:
+                - link "s" [ref=e152] [cursor=pointer]:
+                  - /url: "#s"
+              - listitem [ref=e153]:
+                - link "t" [ref=e154] [cursor=pointer]:
+                  - /url: "#t"
+              - listitem [ref=e155]:
+                - link "u" [ref=e156] [cursor=pointer]:
+                  - /url: "#u"
+              - listitem [ref=e157]:
+                - link "v" [ref=e158] [cursor=pointer]:
+                  - /url: "#v"
+              - listitem [ref=e159]:
+                - generic [ref=e160]: w
+              - listitem [ref=e161]:
+                - generic [ref=e162]: x
+              - listitem [ref=e163]:
+                - link "y" [ref=e164] [cursor=pointer]:
+                  - /url: "#y"
+              - listitem [ref=e165]:
+                - generic [ref=e166]: z
+              - listitem [ref=e167]:
+                - link "å" [ref=e168] [cursor=pointer]:
+                  - /url: "#å"
+              - listitem [ref=e169]:
+                - link "ä" [ref=e170] [cursor=pointer]:
+                  - /url: "#ä"
+              - listitem [ref=e171]:
+                - link "ö" [ref=e172] [cursor=pointer]:
+                  - /url: "#ö"
+            - generic [ref=e173]:
+              - heading "#" [level=2] [ref=e174]
+              - generic [ref=e176]:
+                - heading "Vårdprogram" [level=2] [ref=e177]
+                - list [ref=e178]:
+                  - listitem [ref=e179]:
+                    - link "22q11-deletionssyndromet " [ref=e180] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/22q11-deletionssyndromet.pdf
+            - generic [ref=e181]:
+              - heading "A" [level=2] [ref=e182]
+              - generic [ref=e183]:
+                - generic [ref=e184]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e185]
+                  - list [ref=e186]:
+                    - listitem [ref=e187]:
+                      - link "ABCDE, initialt omhändertagande" [ref=e188] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/
+                    - listitem [ref=e189]:
+                      - link "Adenoidhypertrofi hos barn" [ref=e190] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/adenoidhypertrofi/
+                    - listitem [ref=e191]:
+                      - link "Adhd" [ref=e192] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/adhd/
+                    - listitem [ref=e193]:
+                      - link "Akne" [ref=e194] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akne/
+                    - listitem [ref=e195]:
+                      - link "Akromegali" [ref=e196] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akromegali/
+                    - listitem [ref=e197]:
+                      - link "Akromioklavikularledsartros" [ref=e198] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akromioklavikularledsartros/
+                    - listitem [ref=e199]:
+                      - link "Akromioklavikularledsskada" [ref=e200] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akromioklavikularledsskada/
+                    - listitem [ref=e201]:
+                      - link "Aktinisk keratos" [ref=e202] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/aktinisk-keratos/
+                    - listitem [ref=e203]:
+                      - link "Akut hjärtarytmi" [ref=e204] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akut-hjartarytmi/
+                    - listitem [ref=e205]:
+                      - link "Akut leukemi" [ref=e206] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akut-leukemi/
+                    - listitem [ref=e207]:
+                      - link "Akut trångvinkelattack" [ref=e208] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akut-trangvinkelattack/
+                    - listitem [ref=e209]:
+                      - link "Alarmsymtom vid misstanke om cancer hos barn och unga under 18 år" [ref=e210] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/alarmsymtom-vid-misstanke-om-cancer-hos-barn-och-unga-under-18-ar/
+                    - listitem [ref=e211]:
+                      - link "Allergi vid bi- eller getingstick" [ref=e212] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/allergi-vid-bi--eller-getingstick/
+                    - listitem [ref=e213]:
+                      - link "Allergisk rinokonjunktivit" [ref=e214] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/allergisk-rinokonjunktivit/
+                    - listitem [ref=e215]:
+                      - link "Allvarliga ospecifika symtom som kan bero på cancer" [ref=e216] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/allvarliga-ospecifika-symtom-som-kan-bero-pa-cancer/
+                    - listitem [ref=e217]:
+                      - link "Amenorré" [ref=e218] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/amenorre/
+                    - listitem [ref=e219]:
+                      - link "Anafylaxi" [ref=e220] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/anafylaxi/
+                    - listitem [ref=e221]:
+                      - link "Analabscess" [ref=e222] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/analabscess/
+                    - listitem [ref=e223]:
+                      - link "Analcancer" [ref=e224] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/analcancer/
+                    - listitem [ref=e225]:
+                      - link "Analfistel" [ref=e226] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/analfistel/
+                    - listitem [ref=e227]:
+                      - link "Andningsbesvär, palliativ vård" [ref=e228] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/andningsbesvar-palliativ-vard/
+                    - listitem [ref=e229]:
+                      - link "Anemi" [ref=e230] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/anemi/
+                    - listitem [ref=e231]:
+                      - link "Anemi hos barn" [ref=e232] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/anemi-hos-barn/
+                    - listitem [ref=e233]:
+                      - link "Anterior icke-arteritisk ischemisk optikusneuropati (NAION)" [ref=e234] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/anterior-icke-arteritisk-ischemisk--optikusneuropati-naion/
+                    - listitem [ref=e235]:
+                      - link "Aortainsufficiens" [ref=e236] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/aortainsufficiens/
+                    - listitem [ref=e237]:
+                      - link "Aortastenos" [ref=e238] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/aortastenos/
+                    - listitem [ref=e239]:
+                      - link "Arbetsrelaterad astma, KOL och rinit" [ref=e240] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/arbetsrelaterad-astma-kol-och-rinit/
+                    - listitem [ref=e241]:
+                      - link "Artriter" [ref=e242] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/artriter/
+                    - listitem [ref=e243]:
+                      - link "Astma" [ref=e244] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/astma/
+                    - listitem [ref=e245]:
+                      - link "Astma hos barn" [ref=e246] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/astma-hos-barn/
+                    - listitem [ref=e247]:
+                      - link "Astma hos barn, akut anfall" [ref=e248] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/astma-hos-barn-akut-anfall/
+                    - listitem [ref=e249]:
+                      - link "Atopisk dermatit" [ref=e250] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/atopisk-dermatit/
+                    - listitem [ref=e251]:
+                      - link "Autism med intellektuell funktionsnedsättning" [ref=e252] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/autism-med-intellektuell-funktionsnedsattning/
+                    - listitem [ref=e253]:
+                      - link "Axelledsartros" [ref=e254] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/axelledsartros/
+                    - listitem [ref=e255]:
+                      - link "Axial spondylartrit" [ref=e256] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/axial-spondylartrit/
+                - generic [ref=e257]:
+                  - heading "Vårdprogram" [level=2] [ref=e258]
+                  - list [ref=e259]:
+                    - listitem [ref=e260]:
+                      - link "Akut appendicit " [ref=e261] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-akut-appendicit2.pdf
+            - generic [ref=e262]:
+              - heading "B" [level=2] [ref=e263]
+              - generic [ref=e265]:
+                - heading "Kliniska kunskapsstöd" [level=2] [ref=e266]
+                - list [ref=e267]:
+                  - listitem [ref=e268]:
+                    - link "Bakteriell endoftalmit" [ref=e269] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bakteriell-endoftalmit/
+                  - listitem [ref=e270]:
+                    - link "Bakteriell prostatit" [ref=e271] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bakteriell-prostatit/
+                  - listitem [ref=e272]:
+                    - link "Bakteriell vaginos" [ref=e273] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bakteriell-vaginos/
+                  - listitem [ref=e274]:
+                    - link "Barn som far illa" [ref=e275] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/barn-som-far-illa/
+                  - listitem [ref=e276]:
+                    - link "Bartolinit" [ref=e277] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bartolinit/
+                  - listitem [ref=e278]:
+                    - link "Basalcellscancer" [ref=e279] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/basalcellscancer/
+                  - listitem [ref=e280]:
+                    - link "Benartärsjukdom" [ref=e281] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/benartarsjukdom/
+                  - listitem [ref=e282]:
+                    - link "Benartärsjukdom, sekundärprevention" [ref=e283] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/benartarsjukdom-sekundarprevention/
+                  - listitem [ref=e284]:
+                    - link "Benign prostatahyperplasi" [ref=e285] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/benign-prostatahyperplasi/
+                  - listitem [ref=e286]:
+                    - link "Bettskador" [ref=e287] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bettskador/
+                  - listitem [ref=e288]:
+                    - link "Binjurebarkssvikt" [ref=e289] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/binjurebarkssvikt/
+                  - listitem [ref=e290]:
+                    - link "Binjureincidentalom" [ref=e291] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/binjureincidentalom/
+                  - listitem [ref=e292]:
+                    - link "Blåsljud hos barn" [ref=e293] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/blasljud-hos-barn/
+                  - listitem [ref=e294]:
+                    - link "Borrelia" [ref=e295] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/borrelia/
+                  - listitem [ref=e296]:
+                    - link "Brist på vitamin B12 och folat" [ref=e297] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/brist-pa-vitamin-b12-och-folat/
+                  - listitem [ref=e298]:
+                    - link "Bröstcancer" [ref=e299] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/brostcancer/
+                  - listitem [ref=e300]:
+                    - link "Bröstreduktionsplastik" [ref=e301] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/brostreduktionsplastik/
+                  - listitem [ref=e302]:
+                    - link "Bröstsmärta och hjärtklappning hos barn" [ref=e303] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/brostsmarta-och-hjartklappning-hos-barn/
+                  - listitem [ref=e304]:
+                    - link "Bukaortaaneurysm" [ref=e305] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bukaortaaneurysm/
+                  - listitem [ref=e306]:
+                    - link "Buksarkom" [ref=e307] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/buksarkom/
+                  - listitem [ref=e308]:
+                    - link "Bukspottkörtelcancer" [ref=e309] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bukspottkortelcancer/
+                  - listitem [ref=e310]:
+                    - link "Buksymtom hos barn, akut" [ref=e311] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/buksymtom-hos-barn-akut/
+                  - listitem [ref=e312]:
+                    - link "Bäckenbottensmärtsyndrom hos man, kroniskt" [ref=e313] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/backenbottensmartsyndrom-hos-man-kroniskt/
+                  - listitem [ref=e314]:
+                    - link "Bältros" [ref=e315] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/baltros/
+            - generic [ref=e316]:
+              - heading "C" [level=2] [ref=e317]
+              - generic [ref=e319]:
+                - heading "Kliniska kunskapsstöd" [level=2] [ref=e320]
+                - list [ref=e321]:
+                  - listitem [ref=e322]:
+                    - link "Cancer utan känd primärtumör" [ref=e323] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/cancer-utan-kand-primartumor/
+                  - listitem [ref=e324]:
+                    - link "Candidainfektion, oral och intertriginös" [ref=e325] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/candidainfektion-oral-och-intertriginos/
+                  - listitem [ref=e326]:
+                    - link "Candidavulvovaginit" [ref=e327] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/candidavulvovaginit/
+                  - listitem [ref=e328]:
+                    - link "Celiaki" [ref=e329] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/celiaki/
+                  - listitem [ref=e330]:
+                    - link "Celiaki hos barn" [ref=e331] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/celiaki-hos-barn/
+                  - listitem [ref=e332]:
+                    - link "Cerebral pares" [ref=e333] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/cerebral-pares/
+                  - listitem [ref=e334]:
+                    - link "Clostridioides difficile" [ref=e335] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/clostridioides-difficile/
+                  - listitem [ref=e336]:
+                    - link "Cushings syndrom" [ref=e337] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/cushings-syndrom/
+            - generic [ref=e338]:
+              - heading "D" [level=2] [ref=e339]
+              - generic [ref=e340]:
+                - generic [ref=e341]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e342]
+                  - list [ref=e343]:
+                    - listitem [ref=e344]:
+                      - link "Degenerativ meniskskada i knäled" [ref=e345] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/degenerativ-meniskskada-i-knaled/
+                    - listitem [ref=e346]:
+                      - link "Depression" [ref=e347] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/depression/
+                    - listitem [ref=e348]:
+                      - link "Diabetes typ 2, uppföljning" [ref=e349] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetes-typ-2-uppfoljning/
+                    - listitem [ref=e350]:
+                      - link "Diabetes – glukossänkande läkemedelsbehandling vid typ 2-diabetes" [ref=e351] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetes--glukossankande-lakemedelsbehandling-vid-typ-2-diabetes/
+                    - listitem [ref=e352]:
+                      - link "Diabetes, fotkomplikationer" [ref=e353] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetes-fotkomplikationer/
+                    - listitem [ref=e354]:
+                      - link "Diabetes, transitionsvård för unga personer med typ 1-diabetes" [ref=e355] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetes-transitionsvard-for-unga-personer-med-typ-1-diabetes/
+                    - listitem [ref=e356]:
+                      - link "Diabetes, utredning" [ref=e357] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetes-utredning/
+                    - listitem [ref=e358]:
+                      - link "Diabetesketoacidos" [ref=e359] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetesketoacidos/
+                    - listitem [ref=e360]:
+                      - link "Diabetesretinopati" [ref=e361] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetesretinopati/
+                    - listitem [ref=e362]:
+                      - link "Diabetesretinopati – handläggning av proliferativ diabetesretinopati (PDR)" [ref=e363] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetesretinopati--handlaggning-av-proliferativ-diabetesretinopati-pdr/
+                    - listitem [ref=e364]:
+                      - link "Divertikulit" [ref=e365] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/divertikulit/
+                    - listitem [ref=e366]:
+                      - link "Djup ventrombos" [ref=e367] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/djup-ventrombos/
+                    - listitem [ref=e368]:
+                      - link "Droppfinger" [ref=e369] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/droppfinger/
+                    - listitem [ref=e370]:
+                      - link "Dupuytrens kontraktur" [ref=e371] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/dupuytrens-kontraktur/
+                    - listitem [ref=e372]:
+                      - link "Dysmenorré" [ref=e373] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/dysmenorre/
+                - generic [ref=e374]:
+                  - heading "Vårdförlopp" [level=2] [ref=e375]
+                  - list [ref=e376]:
+                    - listitem [ref=e377]:
+                      - link "Depression hos vuxna" [ref=e378] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/depression-hos-vuxna/
+                    - listitem [ref=e379]:
+                      - link "Diabetes med hög risk för fotsår" [ref=e380] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/diabetes-med-hog-risk-for-fotsar/
+                - generic [ref=e381]:
+                  - heading "Vårdprogram" [level=2] [ref=e382]
+                  - list [ref=e383]:
+                    - listitem [ref=e384]:
+                      - link "Distal radiusfraktur " [ref=e385] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-behandling-av-distala-radiusfrakturer.pdf
+            - generic [ref=e386]:
+              - heading "E" [level=2] [ref=e387]
+              - generic [ref=e388]:
+                - generic [ref=e389]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e390]
+                  - list [ref=e391]:
+                    - listitem [ref=e392]:
+                      - link "Ehlers-Danlos syndrom" [ref=e393] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ehlers-danlos-syndrom/
+                    - listitem [ref=e394]:
+                      - link "Endokardit" [ref=e395] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/endokardit/
+                    - listitem [ref=e396]:
+                      - link "Endokrin oftalmopati" [ref=e397] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/endokrin-oftalmopati/
+                    - listitem [ref=e398]:
+                      - link "Endometrios" [ref=e399] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/endometrios/
+                    - listitem [ref=e400]:
+                      - link "Enures hos barn" [ref=e401] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/enures-hos-barn/
+                    - listitem [ref=e402]:
+                      - link "Epilepsi" [ref=e403] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/epilepsi/
+                    - listitem [ref=e404]:
+                      - link "Erektil dysfunktion" [ref=e405] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/erektil-dysfunktion/
+                    - listitem [ref=e406]:
+                      - link "Erysipelas" [ref=e407] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/erysipelas/
+                    - listitem [ref=e408]:
+                      - link "Essentiell tremor" [ref=e409] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/essentiell-tremor/
+                - generic [ref=e410]:
+                  - heading "Vårdförlopp" [level=2] [ref=e411]
+                  - list [ref=e412]:
+                    - listitem [ref=e413]:
+                      - link "Epilepsi" [ref=e414] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/epilepsi/
+            - generic [ref=e415]:
+              - heading "F" [level=2] [ref=e416]
+              - generic [ref=e417]:
+                - generic [ref=e418]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e419]
+                  - list [ref=e420]:
+                    - listitem [ref=e421]:
+                      - link "Fetma" [ref=e422] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/fetma/
+                    - listitem [ref=e423]:
+                      - link "Fibromyalgi" [ref=e424] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/fibromyalgi/
+                    - listitem [ref=e425]:
+                      - link "Fimosis hos barn" [ref=e426] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/fimosis-hos-barn/
+                    - listitem [ref=e427]:
+                      - link "Flerfunktionsnedsättning" [ref=e428] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/flerfunktionsnedsattning/
+                    - listitem [ref=e429]:
+                      - link "Follikulit" [ref=e430] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/follikulit/
+                    - listitem [ref=e431]:
+                      - link "Fotledsartros" [ref=e432] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/fotledsartros/
+                    - listitem [ref=e433]:
+                      - link "Fotledsdistorsion" [ref=e434] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/fotledsdistorsion/
+                    - listitem [ref=e435]:
+                      - link "Frusen skuldra" [ref=e436] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/frusen-skuldra/
+                    - listitem [ref=e437]:
+                      - link "Funktionell buksmärta hos barn" [ref=e438] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/funktionell-buksmarta-hos-barn/
+                    - listitem [ref=e439]:
+                      - link "Funktionell diarré hos barn" [ref=e440] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/funktionell-diarre-hos-barn/
+                    - listitem [ref=e441]:
+                      - link "Funktionella kräkningar hos barn" [ref=e442] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/funktionella-krakningar-hos-barn/
+                    - listitem [ref=e443]:
+                      - link "Furunkel och karbunkel" [ref=e444] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/furunkel-och-karbunkel/
+                    - listitem [ref=e445]:
+                      - link "Förmaksflimmer" [ref=e446] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/formaksflimmer/
+                    - listitem [ref=e447]:
+                      - link "Förstoppning hos barn" [ref=e448] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/forstoppning-hos-barn/
+                - generic [ref=e449]:
+                  - heading "Vårdriktlinjer" [level=2] [ref=e450]
+                  - list [ref=e451]:
+                    - listitem [ref=e452]:
+                      - link "Fosterdiagnostik – kartläggning och rekommendationer " [ref=e453] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-fosterdiagnostik-kartlaggning-och-rekommendation.pdf
+            - generic [ref=e454]:
+              - heading "G" [level=2] [ref=e455]
+              - generic [ref=e456]:
+                - generic [ref=e457]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e458]
+                  - list [ref=e459]:
+                    - listitem [ref=e460]:
+                      - link "Gallblåse- och gallvägscancer" [ref=e461] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gallblase--och-gallvagscancer/
+                    - listitem [ref=e462]:
+                      - link "Gallstenssjukdom, okomplicerad" [ref=e463] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gallstenssjukdom-okomplicerad/
+                    - listitem [ref=e464]:
+                      - link "Ganglion" [ref=e465] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ganglion/
+                    - listitem [ref=e466]:
+                      - link "Gastroenterit" [ref=e467] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gastroenterit/
+                    - listitem [ref=e468]:
+                      - link "Gastroenterit hos barn" [ref=e469] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gastroenterit-hos-barn/
+                    - listitem [ref=e470]:
+                      - link "Genital prolaps" [ref=e471] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/genital-prolaps/
+                    - listitem [ref=e472]:
+                      - link "Gikt" [ref=e473] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gikt/
+                    - listitem [ref=e474]:
+                      - link "Gonorré" [ref=e475] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gonorre/
+                    - listitem [ref=e476]:
+                      - link "Gynekologiska blödningsrubbningar" [ref=e477] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gynekologiska-blodningsrubbningar/
+                    - listitem [ref=e478]:
+                      - link "Gynekomasti" [ref=e479] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gynekomasti/
+                - generic [ref=e480]:
+                  - heading "Vårdförlopp" [level=2] [ref=e481]
+                  - list [ref=e482]:
+                    - listitem [ref=e483]:
+                      - link "Grav hörselnedsättning" [ref=e484] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/grav-horselnedsattning/
+                - generic [ref=e485]:
+                  - heading "Vårdprogram" [level=2] [ref=e486]
+                  - list [ref=e487]:
+                    - listitem [ref=e488]:
+                      - link "Gallstenssjukdom " [ref=e489] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-gallstenssjukdom.pdf
+            - generic [ref=e490]:
+              - heading "H" [level=2] [ref=e491]
+              - generic [ref=e492]:
+                - generic [ref=e493]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e494]
+                  - list [ref=e495]:
+                    - listitem [ref=e496]:
+                      - link "Hallux rigidus" [ref=e497] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hallux-rigidus/
+                    - listitem [ref=e498]:
+                      - link "Hallux valgus" [ref=e499] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hallux-valgus/
+                    - listitem [ref=e500]:
+                      - link "Hammartå och andra småtådeformiteter" [ref=e501] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hammarta/
+                    - listitem [ref=e502]:
+                      - link "Handeksem" [ref=e503] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/handeksem/
+                    - listitem [ref=e504]:
+                      - link "Handledsfraktur" [ref=e505] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/handledsfraktur/
+                    - listitem [ref=e506]:
+                      - link "Hepatit A" [ref=e507] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hepatit-a/
+                    - listitem [ref=e508]:
+                      - link "Hepatit B" [ref=e509] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hepatit-b/
+                    - listitem [ref=e510]:
+                      - link "Hepatit C" [ref=e511] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hepatit-c/
+                    - listitem [ref=e512]:
+                      - link "Hereditära retinala sjukdomar" [ref=e513] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hereditara-retinala-sjukdomar/
+                    - listitem [ref=e514]:
+                      - link "Herpes simplex" [ref=e515] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/herpes-simplex/
+                    - listitem [ref=e516]:
+                      - link "Herpes zoster oftalmicus" [ref=e517] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/herpes-zoster-oftalmicus/
+                    - listitem [ref=e518]:
+                      - link "Hidradenitis suppurativa" [ref=e519] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hidradenitis-suppurativa/
+                    - listitem [ref=e520]:
+                      - link "Hivinfektion" [ref=e521] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hiv-infektion/
+                    - listitem [ref=e522]:
+                      - link "Hjärntumör" [ref=e523] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hjarntumor/
+                    - listitem [ref=e524]:
+                      - link "Hjärtarytmi" [ref=e525] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hjartarytmi/
+                    - listitem [ref=e526]:
+                      - link "Hjärtstopp" [ref=e527] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hjartstopp/
+                    - listitem [ref=e528]:
+                      - link "Hjärtsvikt" [ref=e529] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hjartsvikt/
+                    - listitem [ref=e530]:
+                      - link "Hudlymfom" [ref=e531] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hudlymfom/
+                    - listitem [ref=e532]:
+                      - link "Hudmelanom" [ref=e533] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hudmelanom/
+                    - listitem [ref=e534]:
+                      - link "Huvud- och halscancer" [ref=e535] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/huvud--och-halscancer/
+                    - listitem [ref=e536]:
+                      - link "Huvudvärk hos barn" [ref=e537] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/huvudvark-hos-barn/
+                    - listitem [ref=e538]:
+                      - link "Huvudvärk, akut" [ref=e539] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/huvudvark-akut/
+                    - listitem [ref=e540]:
+                      - link "Hydrocele, spermatocele och varikocele" [ref=e541] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hydrocele-spermatocele-och-varikocele/
+                    - listitem [ref=e542]:
+                      - link "Hyperglykemi hos barn" [ref=e543] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperglykemi-hos-barn/
+                    - listitem [ref=e544]:
+                      - link "Hyperhidros" [ref=e545] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperhidros/
+                    - listitem [ref=e546]:
+                      - link "Hyperkalcemi" [ref=e547] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperkalcemi/
+                    - listitem [ref=e548]:
+                      - link "Hyperkalcemi, palliativ vård" [ref=e549] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperkalcemi-palliativ-vard/
+                    - listitem [ref=e550]:
+                      - link "Hyperlipidemi" [ref=e551] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperlipidemi/
+                    - listitem [ref=e552]:
+                      - link "Hypermobilitetsspektrumstörning" [ref=e553] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypermobilitetsspektrumstorning/
+                    - listitem [ref=e554]:
+                      - link "Hyperprolaktinemi" [ref=e555] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperprolaktinemi/
+                    - listitem [ref=e556]:
+                      - link "Hypertoni" [ref=e557] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypertoni/
+                    - listitem [ref=e558]:
+                      - link "Hypertyreos" [ref=e559] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypertyreos/
+                    - listitem [ref=e560]:
+                      - link "Hypofysinsufficiens" [ref=e561] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypofysinsufficiens/
+                    - listitem [ref=e562]:
+                      - link "Hypoglykemi hos barn med diabetes" [ref=e563] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypoglykemi-hos-barn-med-diabetes/
+                    - listitem [ref=e564]:
+                      - link "Hypoglykemi vid diabetes" [ref=e565] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypoglykemi-vid-diabetes/
+                    - listitem [ref=e566]:
+                      - link "Hypogonadism hos män" [ref=e567] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypogonadism-hos-man/
+                    - listitem [ref=e568]:
+                      - link "Hypokalcemi" [ref=e569] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypokalcemi/
+                    - listitem [ref=e570]:
+                      - link "Hypokalemi" [ref=e571] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypokalemi/
+                    - listitem [ref=e572]:
+                      - link "Hyponatremi" [ref=e573] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyponatremi/
+                    - listitem [ref=e574]:
+                      - link "Hypotyreos" [ref=e575] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypotyreos/
+                    - listitem [ref=e576]:
+                      - link "Hälta hos barn" [ref=e577] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/halta-hos-barn/
+                    - listitem [ref=e578]:
+                      - link "Håravfall" [ref=e579] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/haravfall/
+                    - listitem [ref=e580]:
+                      - link "Höftfraktur" [ref=e581] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hoftfraktur/
+                    - listitem [ref=e582]:
+                      - link "Höftledsartros" [ref=e583] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hoftledsartros/
+                    - listitem [ref=e584]:
+                      - link "Hörselasymmetri hos vuxna, utredning" [ref=e585] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/horselasymmetri-hos-vuxna-utredning/
+                    - listitem [ref=e586]:
+                      - link "Höstblåsor" [ref=e587] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hostblasor/
+                - generic [ref=e588]:
+                  - heading "Vårdförlopp" [level=2] [ref=e589]
+                  - list [ref=e590]:
+                    - listitem [ref=e591]:
+                      - link "Hjärtsvikt" [ref=e592] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/hjartsvikt/
+                    - listitem [ref=e593]:
+                      - link "Höftledsartros - primärvård" [ref=e594] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/hoftledsartros---primarvard/
+                    - listitem [ref=e595]:
+                      - link "Höftledsartros - proteskirurgi" [ref=e596] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/hoftledsartros---proteskirurgi/
+                - generic [ref=e597]:
+                  - heading "Vårdprogram" [level=2] [ref=e598]
+                  - list [ref=e599]:
+                    - listitem [ref=e600]:
+                      - link "Hypertyreos " [ref=e601] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-hypertyreos.pdf
+                    - listitem [ref=e602]:
+                      - link "Höftfraktur " [ref=e603] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-hoftfraktur.pdf
+                - generic [ref=e604]:
+                  - heading "Vårdriktlinjer" [level=2] [ref=e605]
+                  - list [ref=e606]:
+                    - listitem [ref=e607]:
+                      - link "Handläggning i graviditetsvecka 41 " [ref=e608] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-i-graviditetsvecka-41.pdf
+            - generic [ref=e609]:
+              - heading "I" [level=2] [ref=e610]
+              - generic [ref=e611]:
+                - generic [ref=e612]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e613]
+                  - list [ref=e614]:
+                    - listitem [ref=e615]:
+                      - link "IBD, inflammatorisk tarmsjukdom" [ref=e616] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ibd-inflammatorisk-tarmsjukdom/
+                    - listitem [ref=e617]:
+                      - link "Idiopatisk intrakraniell hypertension – ögonuppföljning" [ref=e618] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/idiopatisk-intrakraniell-hypertension--ogonuppfoljning/
+                    - listitem [ref=e619]:
+                      - link "Illamående, palliativ vård" [ref=e620] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/illamaende-palliativ-vard/
+                    - listitem [ref=e621]:
+                      - link "Impetigo" [ref=e622] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/impetigo/
+                    - listitem [ref=e623]:
+                      - link "Impingement i axelled" [ref=e624] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/impingement-i-axelled/
+                    - listitem [ref=e625]:
+                      - link "Infektiös keratit orsakad av bakterier, svamp och protozoer" [ref=e626] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/infektios-keratit-orsakad-av-bakterier-svamp-och-protozoer/
+                    - listitem [ref=e627]:
+                      - link "Influensa" [ref=e628] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/influensa/
+                    - listitem [ref=e629]:
+                      - link "Initial obruten hud-mot-hudkontakt och samvård" [ref=e630] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/initial-obruten-hud-mot-hudkontakt-och-samvard/
+                    - listitem [ref=e631]:
+                      - link "Instabilitet i axelled" [ref=e632] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/instabilitet-i-axelled/
+                    - listitem [ref=e633]:
+                      - link "Intellektuell funktionsnedsättning" [ref=e634] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/intellektuell-funktionsnedsattning/
+                - generic [ref=e635]:
+                  - heading "Vårdförlopp" [level=2] [ref=e636]
+                  - list [ref=e637]:
+                    - listitem [ref=e638]:
+                      - link "Inflammatorisk tarmsjukdom (IBD) - vuxna" [ref=e639] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/inflammatorisk-tarmsjukdom-ibd---vuxna/
+                - generic [ref=e640]:
+                  - heading "Vårdprogram" [level=2] [ref=e641]
+                  - list [ref=e642]:
+                    - listitem [ref=e643]:
+                      - link "Inflammatorisk tarmsjukdom (IBD) hos vuxna " [ref=e644] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-vuxna-med-inflammatorisk-tarmsjukdom-ibd.pdf
+                - generic [ref=e645]:
+                  - heading "Vårdriktlinjer" [level=2] [ref=e646]
+                  - list [ref=e647]:
+                    - listitem [ref=e648]:
+                      - link "Injektionsbehandling av synnedsättande centralt diabetesmakulaödem (CIDME) " [ref=e649] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-injektionsbehandling-av-synnedsattande-centralt-diabetesmakulaodemcidme.pdf
+            - generic [ref=e650]:
+              - heading "J" [level=2] [ref=e651]
+              - generic [ref=e652]:
+                - generic [ref=e653]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e654]
+                  - list [ref=e655]:
+                    - listitem [ref=e656]:
+                      - link "Jättecellsarterit" [ref=e657] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/jattecellsarterit/
+                - generic [ref=e658]:
+                  - heading "Vårdförlopp" [level=2] [ref=e659]
+                  - list [ref=e660]:
+                    - listitem [ref=e661]:
+                      - link "Jättecellsarterit (GCA)" [ref=e662] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/jattecellsarterit-gca/
+            - generic [ref=e663]:
+              - heading "K" [level=2] [ref=e664]
+              - generic [ref=e665]:
+                - generic [ref=e666]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e667]
+                  - list [ref=e668]:
+                    - listitem [ref=e669]:
+                      - link "Karpaltunnelsyndrom" [ref=e670] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/karpaltunnelsyndrom/
+                    - listitem [ref=e671]:
+                      - link "Katarakt" [ref=e672] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/katarakt/
+                    - listitem [ref=e673]:
+                      - link "Kikhosta" [ref=e674] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kikhosta/
+                    - listitem [ref=e675]:
+                      - link "Klamydia" [ref=e676] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/klamydia/
+                    - listitem [ref=e677]:
+                      - link "Klusterhuvudvärk" [ref=e678] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/klusterhuvudvark/
+                    - listitem [ref=e679]:
+                      - link "Klåda" [ref=e680] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/klada/
+                    - listitem [ref=e681]:
+                      - link "Knäledsartros" [ref=e682] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/knaledsartros/
+                    - listitem [ref=e683]:
+                      - link "KOL-exacerbation" [ref=e684] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kol-exacerbation/
+                    - listitem [ref=e685]:
+                      - link "Kolecystit, akut" [ref=e686] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kolecystit-akut/
+                    - listitem [ref=e687]:
+                      - link "Kondylom" [ref=e688] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kondylom/
+                    - listitem [ref=e689]:
+                      - link "Konfusion, palliativ vård" [ref=e690] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/konfusion-palliativ-vard/
+                    - listitem [ref=e691]:
+                      - link "Konjunktivala melanocytära lesioner" [ref=e692] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/konjunktivala-melanocytara-lesioner/
+                    - listitem [ref=e693]:
+                      - link "Kontakteksem" [ref=e694] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kontakteksem/
+                    - listitem [ref=e695]:
+                      - link "Krampanfall, akut" [ref=e696] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/krampanfall-akut/
+                    - listitem [ref=e697]:
+                      - link "Kranskärlssjukdom, akut" [ref=e698] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kranskarlssjukdom-akut/
+                    - listitem [ref=e699]:
+                      - link "Kranskärlssjukdom, kronisk" [ref=e700] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kranskarlssjukdom-kronisk/
+                    - listitem [ref=e701]:
+                      - link "Kroniskt obstruktiv lungsjukdom" [ref=e702] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kroniskt-obstruktiv-lungsjukdom/
+                    - listitem [ref=e703]:
+                      - link "Kroniskt trötthetssyndrom, ME/CFS" [ref=e704] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kroniskt-trotthetssyndrom-mecfs/
+                - generic [ref=e705]:
+                  - heading "Vårdförlopp" [level=2] [ref=e706]
+                  - list [ref=e707]:
+                    - listitem [ref=e708]:
+                      - link "Karies" [ref=e709] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/karies/
+                    - listitem [ref=e710]:
+                      - link "Knäledsartros" [ref=e711] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/knaledsartros/
+                    - listitem [ref=e712]:
+                      - link "Knäledsartros - proteskirurgi" [ref=e713] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/knaledsartros---proteskirurgi/
+                    - listitem [ref=e714]:
+                      - link "Kognitiv svikt vid misstänkt demenssjukdom" [ref=e715] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/kognitiv-svikt-vid-misstankt-demenssjukdom/
+                    - listitem [ref=e716]:
+                      - link "Kritisk benischemi" [ref=e717] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/kritisk-benischemi/
+                    - listitem [ref=e718]:
+                      - link "Kroniskt obstruktiv lungsjukdom (KOL)" [ref=e719] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/kroniskt-obstruktiv-lungsjukdom-kol/
+                - generic [ref=e720]:
+                  - heading "Vårdriktlinjer" [level=2] [ref=e721]
+                  - list [ref=e722]:
+                    - listitem [ref=e723]:
+                      - 'link "Korneala ektasier: keratokonus, pellucid marginell degeneration och ektasi efter refraktiv korneakirurgi " [ref=e724] [cursor=pointer]':
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-korneala-ektasier-keratokonus-pellucid-marginell-degeneration-och-ektasi-efter-refraktiv-korneakirurgi.pdf
+            - generic [ref=e725]:
+              - heading "L" [level=2] [ref=e726]
+              - generic [ref=e727]:
+                - generic [ref=e728]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e729]
+                  - list [ref=e730]:
+                    - listitem [ref=e731]:
+                      - link "Laktosintolerans" [ref=e732] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/laktosintolerans/
+                    - listitem [ref=e733]:
+                      - link "Laktosintolerans hos barn" [ref=e734] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/laktosintolerans-hos-barn/
+                    - listitem [ref=e735]:
+                      - link "Lebers hereditära optikusneuropati" [ref=e736] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lebers-hereditara-optikusneuropati/
+                    - listitem [ref=e737]:
+                      - link "Levercancer" [ref=e738] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/levercancer/
+                    - listitem [ref=e739]:
+                      - link "Liktorn, klavus" [ref=e740] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/liktorn-klavus/
+                    - listitem [ref=e741]:
+                      - link "Livmoderhalscancer" [ref=e742] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/livmoderhalscancer/
+                    - listitem [ref=e743]:
+                      - link "Livmoderkroppscancer" [ref=e744] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/livmoderkroppscancer/
+                    - listitem [ref=e745]:
+                      - link "Ljumskbråck" [ref=e746] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ljumskbrack/
+                    - listitem [ref=e747]:
+                      - link "Lumbago" [ref=e748] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lumbago/
+                    - listitem [ref=e749]:
+                      - link "Lumbago-ischias" [ref=e750] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lumbago-ischias/
+                    - listitem [ref=e751]:
+                      - link "Lumbal spinal stenos" [ref=e752] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lumbal-spinal-stenos/
+                    - listitem [ref=e753]:
+                      - link "Lungcancer" [ref=e754] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lungcancer/
+                    - listitem [ref=e755]:
+                      - link "Lungemboli" [ref=e756] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lungemboli/
+                    - listitem [ref=e757]:
+                      - link "Lungödem" [ref=e758] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lungodem/
+                    - listitem [ref=e759]:
+                      - link "Lus- och loppbett" [ref=e760] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lus--och-loppbett/
+                    - listitem [ref=e761]:
+                      - link "Lymfogranulom, veneriskt" [ref=e762] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lymfogranulom-veneriskt/
+                    - listitem [ref=e763]:
+                      - link "Lymfödem, palliativ vård" [ref=e764] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lymfodem-palliativ-vard/
+                    - listitem [ref=e765]:
+                      - link "Läkemedelsöveranvändningshuvudvärk" [ref=e766] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lakemedelsoveranvandningshuvudvark/
+                - generic [ref=e767]:
+                  - heading "Vårdförlopp" [level=2] [ref=e768]
+                  - list [ref=e769]:
+                    - listitem [ref=e770]:
+                      - link "Lungfibros - vuxna" [ref=e771] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/lungfibros/
+                    - listitem [ref=e772]:
+                      - link "Ländryggsbesvär hos vuxna" [ref=e773] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/landryggsbesvar-hos-vuxna/
+                - generic [ref=e774]:
+                  - heading "Vårdprogram" [level=2] [ref=e775]
+                  - list [ref=e776]:
+                    - listitem [ref=e777]:
+                      - link "Levercirros " [ref=e778] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-levercirros.pdf
+                    - listitem [ref=e779]:
+                      - link "Levnadsvanor " [ref=e780] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/levnadsvanor.pdf
+            - generic [ref=e781]:
+              - heading "M" [level=2] [ref=e782]
+              - generic [ref=e783]:
+                - generic [ref=e784]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e785]
+                  - list [ref=e786]:
+                    - listitem [ref=e787]:
+                      - link "M-komponent" [ref=e788] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/m-komponent/
+                    - listitem [ref=e789]:
+                      - link "Maligna lymfom och kronisk lymfatisk leukemi" [ref=e790] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/maligna-lymfom-och-kronisk-lymfatisk-leukemi/
+                    - listitem [ref=e791]:
+                      - link "Matallergi hos barn" [ref=e792] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/matallergi-hos-barn/
+                    - listitem [ref=e793]:
+                      - link "Matstrups- och magsäckscancer" [ref=e794] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/matstrups--och-magsackscancer/
+                    - listitem [ref=e795]:
+                      - link "Mediaotit, akut" [ref=e796] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mediaotit-akut/
+                    - listitem [ref=e797]:
+                      - link "Mediaotit, sekretorisk" [ref=e798] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mediaotit-sekretorisk/
+                    - listitem [ref=e799]:
+                      - link "Melanocytärt nevus" [ref=e800] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/melanocytart-nevus/
+                    - listitem [ref=e801]:
+                      - link "Menorragi" [ref=e802] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/menorragi/
+                    - listitem [ref=e803]:
+                      - link "Mensförskjutning" [ref=e804] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mensforskjutning/
+                    - listitem [ref=e805]:
+                      - link "Migrän" [ref=e806] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/migran/
+                    - listitem [ref=e807]:
+                      - link "Migrän hos barn" [ref=e808] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/migran-hos-barn/
+                    - listitem [ref=e809]:
+                      - link "Mitralisinsufficiens" [ref=e810] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mitralisinsufficiens/
+                    - listitem [ref=e811]:
+                      - link "Mitralisstenos" [ref=e812] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mitralisstenos/
+                    - listitem [ref=e813]:
+                      - link "Mollusker" [ref=e814] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mollusker/
+                    - listitem [ref=e815]:
+                      - link "Mortons neuralgi" [ref=e816] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mortons-neuralgi/
+                    - listitem [ref=e817]:
+                      - link "Multipel skleros, MS" [ref=e818] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/multipel-skleros-ms/
+                    - listitem [ref=e819]:
+                      - link "Munbesvär, palliativ vård" [ref=e820] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/munbesvar-palliativ-vard/
+                    - listitem [ref=e821]:
+                      - link "Muntorrhet" [ref=e822] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/muntorrhet/
+                    - listitem [ref=e823]:
+                      - link "Mycoplasma genitalium" [ref=e824] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mycoplasma-genitalium/
+                    - listitem [ref=e825]:
+                      - link "Myelom" [ref=e826] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/myelom/
+                    - listitem [ref=e827]:
+                      - link "Myeloproliferativ neoplasi" [ref=e828] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/myeloproliferativ-neoplasi/
+                    - listitem [ref=e829]:
+                      - link "Mässling" [ref=e830] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/massling/
+                - generic [ref=e831]:
+                  - heading "Vårdförlopp" [level=2] [ref=e832]
+                  - list [ref=e833]:
+                    - listitem [ref=e834]:
+                      - link "Matallergi, IgE-förmedlad" [ref=e835] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/matallergi-ige-formedlad/
+                - generic [ref=e836]:
+                  - heading "Vårdriktlinjer" [level=2] [ref=e837]
+                  - list [ref=e838]:
+                    - listitem [ref=e839]:
+                      - link "Migrän " [ref=e840] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-migran.pdf
+            - generic [ref=e841]:
+              - heading "N" [level=2] [ref=e842]
+              - generic [ref=e843]:
+                - generic [ref=e844]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e845]
+                  - list [ref=e846]:
+                    - listitem [ref=e847]:
+                      - link "Nedsatt lukt- och smaksinne" [ref=e848] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/nedsatt-lukt--och-smaksinne/
+                    - listitem [ref=e849]:
+                      - link "Neuroendokrina buktumörer" [ref=e850] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/neuroendokrina-buktumorer/
+                    - listitem [ref=e851]:
+                      - link "Njurcancer" [ref=e852] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/njurcancer/
+                    - listitem [ref=e853]:
+                      - link "Njursjukdom, kronisk" [ref=e854] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/njursjukdom-kronisk/
+                    - listitem [ref=e855]:
+                      - link "Njursten" [ref=e856] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/njursten/
+                    - listitem [ref=e857]:
+                      - link "Njurtransplantation med levande donator" [ref=e858] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/njurtransplantation-med-levande-donator/
+                    - listitem [ref=e859]:
+                      - link "Njurtransplanterad" [ref=e860] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/njurtransplanterad/
+                    - listitem [ref=e861]:
+                      - link "Nokturi och nattlig polyuri" [ref=e862] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/nokturi-och-nattlig-polyuri/
+                    - listitem [ref=e863]:
+                      - link "Näsblödning" [ref=e864] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/nasblodning/
+                - generic [ref=e865]:
+                  - heading "Vårdförlopp" [level=2] [ref=e866]
+                  - list [ref=e867]:
+                    - listitem [ref=e868]:
+                      - link "Normaltryckshydrocefalus – idiopatisk" [ref=e869] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/normaltryckshydrocefalus-idiopatisk/
+                - generic [ref=e870]:
+                  - heading "Vårdprogram" [level=2] [ref=e871]
+                  - list [ref=e872]:
+                    - listitem [ref=e873]:
+                      - link "Njursjukdom, kronisk " [ref=e874] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-kronisk-njursjukdom.pdf
+                - generic [ref=e875]:
+                  - heading "Vårdriktlinjer" [level=2] [ref=e876]
+                  - list [ref=e877]:
+                    - listitem [ref=e878]:
+                      - link "Narkolepsi " [ref=e879] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-behandling-av-narkolepsi-hos-barn-och-vuxna.pdf
+            - generic [ref=e880]:
+              - heading "O" [level=2] [ref=e881]
+              - generic [ref=e882]:
+                - generic [ref=e883]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e884]
+                  - list [ref=e885]:
+                    - listitem [ref=e886]:
+                      - link "Obesitas hos barn" [ref=e887] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/obesitas-hos-barn/
+                    - listitem [ref=e888]:
+                      - link "Obstipation, palliativ vård" [ref=e889] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/obstipation-palliativ-vard/
+                    - listitem [ref=e890]:
+                      - link "Obstruktiv sömnapné" [ref=e891] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/obstruktiv-somnapne/
+                    - listitem [ref=e892]:
+                      - link "Obstruktiv sömnrelaterad andningsstörning hos barn (OSDB)" [ref=e893] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/obstruktiv-somnapne-hos-barn/
+                    - listitem [ref=e894]:
+                      - link "Ofrivillig barnlöshet, infertilitet" [ref=e895] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ofrivillig-barnloshet-infertilitet/
+                    - listitem [ref=e896]:
+                      - link "Ohälsosamma matvanor" [ref=e897] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ohalsosamma-matvanor/
+                    - listitem [ref=e898]:
+                      - link "Optikusneurit hos vuxna" [ref=e899] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/optikusneurit-hos-vuxna/
+                    - listitem [ref=e900]:
+                      - link "Oro och ångest, palliativ vård" [ref=e901] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/oro-och-angest-palliativ-vard/
+                    - listitem [ref=e902]:
+                      - link "Osteoporos" [ref=e903] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/osteoporos/
+                    - listitem [ref=e904]:
+                      - link "Otillräcklig fysisk aktivitet" [ref=e905] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/otillracklig-fysisk-aktivitet/
+                - generic [ref=e906]:
+                  - heading "Vårdförlopp" [level=2] [ref=e907]
+                  - list [ref=e908]:
+                    - listitem [ref=e909]:
+                      - link "Obstruktiv sömnapné (OSA) hos vuxna" [ref=e910] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/obstruktiv-somnapne-osa-hos-vuxna/
+                    - listitem [ref=e911]:
+                      - link "Obstruktiv sömnrelaterad andningsstörning (OSDB) hos barn" [ref=e912] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/obstruktiv-somnrelaterad-andningsstorning-OSDB-hos-barn/
+                    - listitem [ref=e913]:
+                      - link "Osteoporos - sekundärprevention efter fraktur" [ref=e914] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/osteoporos---sekundarprevention-efter-fraktur/
+                - generic [ref=e915]:
+                  - heading "Vårdprogram" [level=2] [ref=e916]
+                  - list [ref=e917]:
+                    - listitem [ref=e918]:
+                      - link "Obesitas hos barn och ungdomar " [ref=e919] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/obesitas-hos-barn-och-ungdomar.pdf
+                    - listitem [ref=e920]:
+                      - link "Obstruktiv sömnapné hos vuxna " [ref=e921] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-behandling-av-obstruktiv-somnapne-hos-vuxna-slutversion.pdf
+                    - listitem [ref=e922]:
+                      - link "Otoskleros" [ref=e923] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/otoskleros
+                - generic [ref=e924]:
+                  - heading "Vårdriktlinjer" [level=2] [ref=e925]
+                  - list [ref=e926]:
+                    - listitem [ref=e927]:
+                      - link "Onormal blödning från livmodern " [ref=e928] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-onormal-blodning-fran-livmodern.pdf
+            - generic [ref=e929]:
+              - heading "P" [level=2] [ref=e930]
+              - generic [ref=e931]:
+                - generic [ref=e932]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e933]
+                  - list [ref=e934]:
+                    - listitem [ref=e935]:
+                      - link "Parkinsonism och Parkinsons sjukdom" [ref=e936] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/parkinsonism-och-parkinsons-sjukdom/
+                    - listitem [ref=e937]:
+                      - link "Penicillinallergi" [ref=e938] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/penicillinallergi/
+                    - listitem [ref=e939]:
+                      - link "Peniscancer" [ref=e940] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/peniscancer/
+                    - listitem [ref=e941]:
+                      - link "Periokulär basalcellscancer" [ref=e942] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/periokular-basalcellscancer/
+                    - listitem [ref=e943]:
+                      - link "Periokulär skivepitelcancer" [ref=e944] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/periokular-skivepitelcancer/
+                    - listitem [ref=e945]:
+                      - link "Periokulär talgkörtelcancer" [ref=e946] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/periokular-talgkortelcancer/
+                    - listitem [ref=e947]:
+                      - link "Perioral dermatit" [ref=e948] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/perioral-dermatit/
+                    - listitem [ref=e949]:
+                      - link "Periorbital nekrotiserande fasciit" [ref=e950] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/periorbital-nekrotiserande-fasciit/
+                    - listitem [ref=e951]:
+                      - link "Periorbitala och orbitala infektioner" [ref=e952] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/periorbitala--och-orbitala-infektioner/
+                    - listitem [ref=e953]:
+                      - link "Pilonidalsinus" [ref=e954] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pilonidalsinus/
+                    - listitem [ref=e955]:
+                      - link "Pityriasis rosea" [ref=e956] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pityriasis-rosea/
+                    - listitem [ref=e957]:
+                      - link "Pityriasis versicolor" [ref=e958] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pityriasis-versicolor/
+                    - listitem [ref=e959]:
+                      - link "Plantar fasciopati, hälsporre" [ref=e960] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/plantar-fasciopati-halsporre/
+                    - listitem [ref=e961]:
+                      - link "Pneumoni" [ref=e962] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pneumoni/
+                    - listitem [ref=e963]:
+                      - link "Pneumoni hos barn" [ref=e964] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pneumoni-hos-barn/
+                    - listitem [ref=e965]:
+                      - link "Polycytemi" [ref=e966] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/polycytemi/
+                    - listitem [ref=e967]:
+                      - link "Polymyalgia reumatika" [ref=e968] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/polymyalgia-reumatika/
+                    - listitem [ref=e969]:
+                      - link "Polyneuropati" [ref=e970] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/polyneuropati/
+                    - listitem [ref=e971]:
+                      - link "Posttraumatiskt stressyndrom" [ref=e972] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/posttraumatiskt-stressyndrom/
+                    - listitem [ref=e973]:
+                      - link "Premenstruellt syndrom" [ref=e974] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/premenstruellt-syndrom/
+                    - listitem [ref=e975]:
+                      - link "Primär immunbrist" [ref=e976] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/primar-immunbrist/
+                    - listitem [ref=e977]:
+                      - link "Primär immunbrist hos barn" [ref=e978] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/primar-immunbrist-hos-barn/
+                    - listitem [ref=e979]:
+                      - link "Prostatacancer" [ref=e980] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/prostatacancer/
+                    - listitem [ref=e981]:
+                      - link "Provocerad vulvodyni" [ref=e982] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/provocerad-vulvodyni/
+                    - listitem [ref=e983]:
+                      - link "Psoriasis" [ref=e984] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/psoriasis/
+                    - listitem [ref=e985]:
+                      - link "Psoriasisartrit" [ref=e986] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/psoriasisartrit/
+                    - listitem [ref=e987]:
+                      - link "Purpura hos barn" [ref=e988] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/purpura-hos-barn/
+                    - listitem [ref=e989]:
+                      - link "Pustulosis palmoplantaris" [ref=e990] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pustulosis-palmoplantaris/
+                    - listitem [ref=e991]:
+                      - link "Pyrofosfatartrit" [ref=e992] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pyrofosfatartrit/
+                    - listitem [ref=e993]:
+                      - link "Påssjuka" [ref=e994] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/passjuka/
+                - generic [ref=e995]:
+                  - heading "Vårdförlopp" [level=2] [ref=e996]
+                  - list [ref=e997]:
+                    - listitem [ref=e998]:
+                      - link "Palliativ vård" [ref=e999] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/palliativ-vard/
+                    - listitem [ref=e1000]:
+                      - link "Psoriasis" [ref=e1001] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/psoriasis/
+                - generic [ref=e1002]:
+                  - heading "Vårdprogram" [level=2] [ref=e1003]
+                  - list [ref=e1004]:
+                    - listitem [ref=e1005]:
+                      - link "Prader-Willis syndrom (PWS) " [ref=e1006] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/prader-willis-syndrom-pws.pdf
+                    - listitem [ref=e1007]:
+                      - link "Primär hyperparatyreoidism " [ref=e1008] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-primar-hypertyreoidism.pdf
+            - generic [ref=e1009]:
+              - heading "R" [level=2] [ref=e1010]
+              - generic [ref=e1011]:
+                - generic [ref=e1012]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e1013]
+                  - list [ref=e1014]:
+                    - listitem [ref=e1015]:
+                      - link "Raynauds fenomen" [ref=e1016] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/raynauds-fenomen/
+                    - listitem [ref=e1017]:
+                      - link "Reaktiv artrit" [ref=e1018] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/reaktiv-artrit/
+                    - listitem [ref=e1019]:
+                      - link "Remiss efter synprövning i förskoleklass inom elevhälsans medicinska insats" [ref=e1020] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/remiss-efter-synprovning-i-forskoleklass-inom-elevhalsans-medicinska-insats/
+                    - listitem [ref=e1021]:
+                      - link "Remiss efter synprövning vid fyraårsbesöket i barnhälsovården" [ref=e1022] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/remiss-efter-synprovning-vid-fyraarsbesoket-i-barnhalsovarden/
+                    - listitem [ref=e1023]:
+                      - link "Restless legs" [ref=e1024] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/restless-legs/
+                    - listitem [ref=e1025]:
+                      - link "Retinal venocklusion" [ref=e1026] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/retinal-venocklusion/
+                    - listitem [ref=e1027]:
+                      - link "Reumatoid artrit" [ref=e1028] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/reumatoid-artrit/
+                    - listitem [ref=e1029]:
+                      - link "Rinosinuit" [ref=e1030] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sinuit/
+                    - listitem [ref=e1031]:
+                      - link "Rinosinuit, kronisk" [ref=e1032] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/rinosinuit-kronisk/
+                    - listitem [ref=e1033]:
+                      - link "Riskbruk av alkohol" [ref=e1034] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/riskbruk-av-alkohol/
+                    - listitem [ref=e1035]:
+                      - link "Rosacea" [ref=e1036] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/rosacea/
+                    - listitem [ref=e1037]:
+                      - link "Rotatorkuffruptur" [ref=e1038] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/rotatorkuffruptur/
+                    - listitem [ref=e1039]:
+                      - link "Ryggmärgsbråck" [ref=e1040] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ryggmargsbrack/
+                    - listitem [ref=e1041]:
+                      - link "Röda hund" [ref=e1042] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/roda-hund/
+                    - listitem [ref=e1043]:
+                      - link "Rött öga med smärta" [ref=e1044] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/rott-oga-med-smarta/
+                    - listitem [ref=e1045]:
+                      - link "Rött öga utan smärta" [ref=e1046] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/rott-oga-utan-smarta/
+                - generic [ref=e1047]:
+                  - heading "Vårdförlopp" [level=2] [ref=e1048]
+                  - list [ref=e1049]:
+                    - listitem [ref=e1050]:
+                      - link "Rehabilitering och delar av försäkringsmedicinskt arbete - generisk modell för klinisk verksamhet " [ref=e1051] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardforlopp/generisk-modell-for-rehabilitering-och-delar-av-forsakringsmedicinskt-arbete_for-klinisk-verksamhet.pdf
+                    - listitem [ref=e1052]:
+                      - link "Reumatoid artrit (RA)" [ref=e1053] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/reumatoid-artrit-ra/
+                    - listitem [ref=e1054]:
+                      - link "Reumatoid artrit - etablerad" [ref=e1055] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/reumatoid-artrit---etablerad/
+            - generic [ref=e1056]:
+              - heading "S" [level=2] [ref=e1057]
+              - generic [ref=e1058]:
+                - generic [ref=e1059]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e1060]
+                  - list [ref=e1061]:
+                    - listitem [ref=e1062]:
+                      - link "Salpingit" [ref=e1063] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/salpingit/
+                    - listitem [ref=e1064]:
+                      - link "Sarkoidos" [ref=e1065] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sarkoidos/
+                    - listitem [ref=e1066]:
+                      - link "Seborroiskt eksem" [ref=e1067] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/seborroiskt-eksem/
+                    - listitem [ref=e1068]:
+                      - link "Sepsis hos vuxna" [ref=e1069] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sepsis-hos-vuxna/
+                    - listitem [ref=e1070]:
+                      - link "Septisk artrit" [ref=e1071] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/septisk-artrit/
+                    - listitem [ref=e1072]:
+                      - link "Sjögrens syndrom" [ref=e1073] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sjogrens-syndrom/
+                    - listitem [ref=e1074]:
+                      - link "Skabb" [ref=e1075] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skabb/
+                    - listitem [ref=e1076]:
+                      - link "Skadligt bruk och beroende av alkohol" [ref=e1077] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skadligt-bruk-och-beroende-av-alkohol/
+                    - listitem [ref=e1078]:
+                      - link "Skadligt bruk och beroende av narkotika" [ref=e1079] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skadligt-bruk-och-beroende-av-narkotika/
+                    - listitem [ref=e1080]:
+                      - link "Skelett- och mjukdelssarkom" [ref=e1081] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skelett--och-mjukdelssarkom/
+                    - listitem [ref=e1082]:
+                      - link "Skelning" [ref=e1083] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skelning/
+                    - listitem [ref=e1084]:
+                      - link "Skelning hos barn" [ref=e1085] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skelning-hos-barn/
+                    - listitem [ref=e1086]:
+                      - link "Skivepitelcancer i huden" [ref=e1087] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skivepitelcancer-i-huden/
+                    - listitem [ref=e1088]:
+                      - link "Sköldkörtelcancer" [ref=e1089] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skoldkortelcancer/
+                    - listitem [ref=e1090]:
+                      - link "Sköldkörtelrubbning hos barn" [ref=e1091] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skoldkortelrubbning-hos-barn/
+                    - listitem [ref=e1092]:
+                      - link "SLE" [ref=e1093] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sle/
+                    - listitem [ref=e1094]:
+                      - link "Smärta i höft och knä hos barn" [ref=e1095] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/smarta-i-hoft-och-kna-hos-barn/
+                    - listitem [ref=e1096]:
+                      - link "Smärta, långvarig" [ref=e1097] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/smarta-langvarig/
+                    - listitem [ref=e1098]:
+                      - link "Smärta, palliativ vård" [ref=e1099] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/smarta-palliativ-vard/
+                    - listitem [ref=e1100]:
+                      - link "Spänningshuvudvärk" [ref=e1101] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/spanningshuvudvark/
+                    - listitem [ref=e1102]:
+                      - link "Spänningshuvudvärk hos barn" [ref=e1103] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/spanningshuvudvark-hos-barn/
+                    - listitem [ref=e1104]:
+                      - link "Stelkramp" [ref=e1105] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stelkramp/
+                    - listitem [ref=e1106]:
+                      - link "Sterilisering" [ref=e1107] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sterilisering/
+                    - listitem [ref=e1108]:
+                      - link "Stjärtfluss hos barn" [ref=e1109] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stjartfluss-hos-barn/
+                    - listitem [ref=e1110]:
+                      - link "Stroke - körkortsbedömning efter stroke och TIA" [ref=e1111] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke---korkortsbedomning-efter-stroke-och-tia/
+                    - listitem [ref=e1112]:
+                      - link "Stroke och TIA, akut" [ref=e1113] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke-och-tia-akut/
+                    - listitem [ref=e1114]:
+                      - link "Stroke och TIA, uppföljning" [ref=e1115] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke-och-tia-uppfoljning/
+                    - listitem [ref=e1116]:
+                      - link "Stroke – nutrition och nutritionsbehandling" [ref=e1117] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke--nutrition-och-nutritionsbehandling/
+                    - listitem [ref=e1118]:
+                      - link "Stroke – skyndsam karotiskirurgi vid symtomgivande karotisstenos" [ref=e1119] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke--skyndsam-karotiskirurgi-vid-symtomgivande-karotisstenos/
+                    - listitem [ref=e1120]:
+                      - link "Stroke – tidig understödd utskrivning" [ref=e1121] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke--tidig-understodd-utskrivning/
+                    - listitem [ref=e1122]:
+                      - link "Suicidriskbedömning" [ref=e1123] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/suicidriskbedomning/
+                    - listitem [ref=e1124]:
+                      - link "Svampinfektion i hud och naglar" [ref=e1125] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/svampinfektion-i-hud-och-naglar/
+                    - listitem [ref=e1126]:
+                      - link "Svampinfektion i hårbotten" [ref=e1127] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/svampinfektion-i-harbotten/
+                    - listitem [ref=e1128]:
+                      - link "Svår smärta och opioidbehandling" [ref=e1129] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/svar-smarta-och-opioidbehandling/
+                    - listitem [ref=e1130]:
+                      - link "Svårläkta sår" [ref=e1131] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/svarlakta-sar/
+                    - listitem [ref=e1132]:
+                      - link "Syfilis" [ref=e1133] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/syfilis/
+                    - listitem [ref=e1134]:
+                      - link "Synstörningar, akuta" [ref=e1135] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/synstorningar-akuta/
+                    - listitem [ref=e1136]:
+                      - link "Sömnstörning, palliativ vård" [ref=e1137] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/somnstorning-palliativ-vard/
+                - generic [ref=e1138]:
+                  - heading "Vårdförlopp" [level=2] [ref=e1139]
+                  - list [ref=e1140]:
+                    - listitem [ref=e1141]:
+                      - link "Schizofreni" [ref=e1142] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/schizofreni/
+                    - listitem [ref=e1143]:
+                      - link "Sepsis" [ref=e1144] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/sepsis/
+                    - listitem [ref=e1145]:
+                      - link "Självskadebeteende hos vuxna" [ref=e1146] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/sjalvskadebeteende-hos-vuxna/
+                    - listitem [ref=e1147]:
+                      - link "Smärta - långvarig, hos vuxna" [ref=e1148] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/smarta---langvarig-hos-vuxna/
+                    - listitem [ref=e1149]:
+                      - link "Stroke och TIA – fortsatt vård och rehabilitering" [ref=e1150] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/stroke-och-tia---fortsatt-vard-och-rehabilitering/
+                    - listitem [ref=e1151]:
+                      - link "Stroke och TIA – tidiga insatser och vård" [ref=e1152] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/stroke-och-tia--tidiga-insatser-och-vard/
+                    - listitem [ref=e1153]:
+                      - link "Svårläkta sår" [ref=e1154] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/svarlakta-sar/
+                    - listitem [ref=e1155]:
+                      - link "Sällsynta sjukdomar med komplexa vårdbehov" [ref=e1156] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/sallsynta-sjukdomar-med-komplexa-vardbehov/
+                - generic [ref=e1157]:
+                  - heading "Vårdprogram" [level=2] [ref=e1158]
+                  - list [ref=e1159]:
+                    - listitem [ref=e1160]:
+                      - link "Skörhet hos äldre " [ref=e1161] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/vardprogram-skorhet-hos-aldre.pdf
+                    - listitem [ref=e1162]:
+                      - link "Smärta, långvarig hos barn " [ref=e1163] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-langvarig-smarta-hos-barn.pdf
+                    - listitem [ref=e1164]:
+                      - link "Stensjukdom övre urinvägarna " [ref=e1165] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-stensjukdom-ovre-urinvagarna.pdf
+                    - listitem [ref=e1166]:
+                      - link "Svårläkta sår " [ref=e1167] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-svarlakta-sar.pdf
+                - generic [ref=e1168]:
+                  - heading "Vårdriktlinjer" [level=2] [ref=e1169]
+                  - list [ref=e1170]:
+                    - listitem [ref=e1171]:
+                      - link "Sekundärprevention vid kranskärlssjukdom, centerbaserad hjärtrehabilitering " [ref=e1172] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-sekundarprevention-vid-kranskarlssjukdom-centerbaserad-hjartrehabilitering-fas2.pdf
+                    - listitem [ref=e1173]:
+                      - link "Sekundärprevention vid kranskärlssjukdom, långsiktig uppföljning primärvård " [ref=e1174] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-sekundarprevention-vid-kranskarlssjukdom-langsiktig-uppfoljning-primarvard-fas3.pdf
+                    - listitem [ref=e1175]:
+                      - link "Sekundärprevention vid kranskärlssjukdom, på vårdavdelning " [ref=e1176] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-sekundarprevention-vid-kranskarlssjukdom-pa-vardavdelning-fas1.pdf
+                    - listitem [ref=e1177]:
+                      - link "Stroke – dysfagi " [ref=e1178] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-bedomning-och-handlaggning-av-dysfagi-efter-stroke.pdf
+                    - listitem [ref=e1179]:
+                      - link "Stroke – munhälsa " [ref=e1180] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-bedomning-av-munhalsa-efter-stroke-samt-for-regionernas-tandvardsstod.pdf
+                    - listitem [ref=e1181]:
+                      - link "Stroke – ny rehabiliteringsbedömning " [ref=e1182] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-ny-rehabiliteringsbedomning-efter-stroke.pdf
+                    - listitem [ref=e1183]:
+                      - link "Stroke – reperfusionsbehandling " [ref=e1184] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf
+                    - listitem [ref=e1185]:
+                      - link "Stroke – slutning av PFO " [ref=e1186] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-kryptogen-stroke-slutning-av-pfo.pdf
+                    - listitem [ref=e1187]:
+                      - link "Stroke – uppföljning efter stroke och TIA - Post-stroke-checklistan " [ref=e1188] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-uppfoljning-efter-stroke-och-tia-post-stroke-checklistan2023.pdf
+                    - listitem [ref=e1189]:
+                      - link "Systemisk skleros " [ref=e1190] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-systemisk-skleros.pdf
+            - generic [ref=e1191]:
+              - heading "T" [level=2] [ref=e1192]
+              - generic [ref=e1193]:
+                - generic [ref=e1194]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e1195]
+                  - list [ref=e1196]:
+                    - listitem [ref=e1197]:
+                      - link "TBE, fästingburen hjärninflammation" [ref=e1198] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tbe-fastingburen-hjarninflammation/
+                    - listitem [ref=e1199]:
+                      - link "Testikelcancer" [ref=e1200] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/testikelcancer/
+                    - listitem [ref=e1201]:
+                      - link "Tillväxtrubbningar hos barn" [ref=e1202] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tillvaxtrubbningar-hos-barn/
+                    - listitem [ref=e1203]:
+                      - link "Tinnitus" [ref=e1204] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tinnitus/
+                    - listitem [ref=e1205]:
+                      - link "Tjock- och ändtarmscancer" [ref=e1206] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tjock--och-andtarmscancer/
+                    - listitem [ref=e1207]:
+                      - link "Tobaks- och nikotinbruk" [ref=e1208] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tobaksbruk/
+                    - listitem [ref=e1209]:
+                      - link "Tonsillit" [ref=e1210] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tonsillit/
+                    - listitem [ref=e1211]:
+                      - link "Tortyrskada" [ref=e1212] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tortyrskada/
+                    - listitem [ref=e1213]:
+                      - link "Traumatisk hjärnskada (THS) — uppföljning och rehabilitering vid lätt THS hos barn och ungdom" [ref=e1214] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/traumatisk-hjarnskada-ths--uppfoljning-och-rehabilitering-vid-latt-ths-hos-barn-och-ungdom/
+                    - listitem [ref=e1215]:
+                      - link "Traumatisk hjärnskada (THS) — uppföljning och rehabilitering vid lätt THS hos vuxna" [ref=e1216] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/traumatisk-hjarnskada-ths--uppfoljning-och-rehabilitering-vid-latt-ths-hos-vuxna/
+                    - listitem [ref=e1217]:
+                      - link "Traumatisk hjärnskada (THS) — uppföljning och rehabilitering vid medelsvår och svår THS hos vuxna" [ref=e1218] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/traumatisk-hjarnskada-ths--uppfoljning-och-rehabilitering-vid-medelsvar-och-svar-ths-hos-vuxna/
+                    - listitem [ref=e1219]:
+                      - link "Traumatiska knäskador" [ref=e1220] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/traumatiska-knaskador/
+                    - listitem [ref=e1221]:
+                      - link "Trigeminusneuralgi" [ref=e1222] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trigeminusneuralgi/
+                    - listitem [ref=e1223]:
+                      - link "Trikomonaskolpit" [ref=e1224] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trikomonaskolpit/
+                    - listitem [ref=e1225]:
+                      - link "Trikuspidalisinsufficiens" [ref=e1226] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trikuspidalisinsufficiens/
+                    - listitem [ref=e1227]:
+                      - link "Trombocytopeni" [ref=e1228] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trombocytopeni/
+                    - listitem [ref=e1229]:
+                      - link "Trumhinneperforation" [ref=e1230] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trumhinneperforation/
+                    - listitem [ref=e1231]:
+                      - link "Trycksår, palliativ vård" [ref=e1232] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trycksar-palliativ-vard/
+                    - listitem [ref=e1233]:
+                      - link "Tuberkulos" [ref=e1234] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tuberkulos/
+                    - listitem [ref=e1235]:
+                      - link "Tumbasartros" [ref=e1236] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tumbasartros/
+                    - listitem [ref=e1237]:
+                      - link "Tvångssyndrom" [ref=e1238] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tvangssyndrom/
+                    - listitem [ref=e1239]:
+                      - link "Tårflöde på grund av nedsatt tårdränage samt infektioner i tårvägarna hos vuxna" [ref=e1240] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tarflode-pa-grund-av-nedsatt-tardranage-samt-infektioner-i-tarvagarna-hos-vuxna/
+                    - listitem [ref=e1241]:
+                      - link "Tårvägssjukdomar hos barn" [ref=e1242] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tarvagssjukdomar-hos-barn/
+                - generic [ref=e1243]:
+                  - heading "Vårdförlopp" [level=2] [ref=e1244]
+                  - list [ref=e1245]:
+                    - listitem [ref=e1246]:
+                      - link "Traumatisk hjärnskada (THS)" [ref=e1247] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/traumatisk-hjarnskada-ths/
+                    - listitem [ref=e1248]:
+                      - link "Tuberkulos" [ref=e1249] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/Tuberkulos/
+                - generic [ref=e1250]:
+                  - heading "Vårdprogram" [level=2] [ref=e1251]
+                  - list [ref=e1252]:
+                    - listitem [ref=e1253]:
+                      - link "Tumbasartros " [ref=e1254] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-tumbasartros.pdf
+                - generic [ref=e1255]:
+                  - heading "Vårdriktlinjer" [level=2] [ref=e1256]
+                  - list [ref=e1257]:
+                    - listitem [ref=e1258]:
+                      - link "Tonsillektomi, kall teknik " [ref=e1259] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-kall-teknik-vid-tonsillektomi.pdf
+            - generic [ref=e1260]:
+              - heading "U" [level=2] [ref=e1261]
+              - generic [ref=e1262]:
+                - generic [ref=e1263]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e1264]
+                  - list [ref=e1265]:
+                    - listitem [ref=e1266]:
+                      - link "Urinblåse- och urinvägscancer" [ref=e1267] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinblase--och-urinvagscancer/
+                    - listitem [ref=e1268]:
+                      - link "Urininkontinens hos kvinnor" [ref=e1269] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urininkontinens-hos-kvinnor/
+                    - listitem [ref=e1270]:
+                      - link "Urinvägsinfektion hos barn" [ref=e1271] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-hos-barn/
+                    - listitem [ref=e1272]:
+                      - link "Urinvägsinfektion hos kvinnor" [ref=e1273] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-hos-kvinnor/
+                    - listitem [ref=e1274]:
+                      - link "Urinvägsinfektion hos män" [ref=e1275] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-hos-man/
+                    - listitem [ref=e1276]:
+                      - link "Urinvägsinfektion hos äldre" [ref=e1277] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-hos-aldre/
+                    - listitem [ref=e1278]:
+                      - link "Urinvägsinfektion under graviditet" [ref=e1279] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-under-graviditet/
+                    - listitem [ref=e1280]:
+                      - link "Urinvägsinfektion, kateterassocierad" [ref=e1281] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-kateterassocierad/
+                    - listitem [ref=e1282]:
+                      - link "Urtikaria" [ref=e1283] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urtikaria/
+                    - listitem [ref=e1284]:
+                      - link "Uveala nevi och melanom" [ref=e1285] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/uveala-nevi-och-melanom/
+                    - listitem [ref=e1286]:
+                      - link "Uveit vid juvenil idiopatisk artrit (JIA) - screening och behandling" [ref=e1287] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/uveit-vid-juvenil-idiopatisk-artrit-jia---screening-och-behandling/
+                - generic [ref=e1288]:
+                  - heading "Vårdriktlinjer" [level=2] [ref=e1289]
+                  - list [ref=e1290]:
+                    - listitem [ref=e1291]:
+                      - link "Uppföljning efter intensivvård, vuxna " [ref=e1292] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/uppdaterad20230907riktlinje-uppfoljning-vuxna-som-vardats-pa-intensivvardsavdelning.pdf
+            - generic [ref=e1293]:
+              - heading "V" [level=2] [ref=e1294]
+              - generic [ref=e1295]:
+                - generic [ref=e1296]:
+                  - heading "Kliniska kunskapsstöd" [level=2] [ref=e1297]
+                  - list [ref=e1298]:
+                    - listitem [ref=e1299]:
+                      - link "Vattkoppor" [ref=e1300] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vattkoppor/
+                    - listitem [ref=e1301]:
+                      - link "Venös insufficiens och varicer" [ref=e1302] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/venos-insufficiens-och-varicer/
+                    - listitem [ref=e1303]:
+                      - link "Vibrationsskador i händerna" [ref=e1304] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vibrationsskador-i-handerna/
+                    - listitem [ref=e1305]:
+                      - link "Videomöten i vården med barn och ungdomar" [ref=e1306] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/videomoten-i-varden-med-barn-och-ungdomar/
+                    - listitem [ref=e1307]:
+                      - link "Viruskrupp hos barn" [ref=e1308] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/viruskrupp-hos-barn/
+                    - listitem [ref=e1309]:
+                      - link "Virusvårtor" [ref=e1310] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/virusvartor/
+                    - listitem [ref=e1311]:
+                      - link "Vitamin D-brist" [ref=e1312] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vitamin-d-brist/
+                    - listitem [ref=e1313]:
+                      - link "Vitiligo" [ref=e1314] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vitiligo/
+                    - listitem [ref=e1315]:
+                      - link "Vulvacancer" [ref=e1316] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vulvacancer/
+                    - listitem [ref=e1317]:
+                      - link "Våld i nära relationer" [ref=e1318] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vald-i-nara-relationer/
+                    - listitem [ref=e1319]:
+                      - link "Våt åldersförändring i gula fläcken (våt AMD)" [ref=e1320] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vat-aldersforandring-i-gula-flacken-vat-amd/
+                - generic [ref=e1321]:
+                  - heading "Vårdförlopp" [level=2] [ref=e1322]
+                  - list [ref=e1323]:
+                    - listitem [ref=e1324]:
+                      - link "Venös sjukdom i benen - varicer och venösa bensår" [ref=e1325] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/kunskapsstod/vardforlopp/venos-sjukdom-i-benen---varicer-och-venosa-bensar/
+                - generic [ref=e1326]:
+                  - heading "Vårdprogram" [level=2] [ref=e1327]
+                  - list [ref=e1328]:
+                    - listitem [ref=e1329]:
+                      - link "Venös sjukdom i benen " [ref=e1330] [cursor=pointer]:
+                        - /url: https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-venos-sjukdom-i-benen.pdf
+            - generic [ref=e1331]:
+              - heading "Y" [level=2] [ref=e1332]
+              - generic [ref=e1334]:
+                - heading "Kliniska kunskapsstöd" [level=2] [ref=e1335]
+                - list [ref=e1336]:
+                  - listitem [ref=e1337]:
+                    - link "Yrsel, perifer orsak" [ref=e1338] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/yrsel-perifer-orsak/
+            - generic [ref=e1339]:
+              - heading "Å" [level=2] [ref=e1340]
+              - generic [ref=e1342]:
+                - heading "Kliniska kunskapsstöd" [level=2] [ref=e1343]
+                - list [ref=e1344]:
+                  - listitem [ref=e1345]:
+                    - link "Ångestsyndrom" [ref=e1346] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/angestsyndrom/
+            - generic [ref=e1347]:
+              - heading "Ä" [level=2] [ref=e1348]
+              - generic [ref=e1350]:
+                - heading "Kliniska kunskapsstöd" [level=2] [ref=e1351]
+                - list [ref=e1352]:
+                  - listitem [ref=e1353]:
+                    - link "Äggstockscancer" [ref=e1354] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/aggstockscancer/
+                  - listitem [ref=e1355]:
+                    - link "Ätstörningar" [ref=e1356] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/atstorningar/
+            - generic [ref=e1357]:
+              - heading "Ö" [level=2] [ref=e1358]
+              - generic [ref=e1360]:
+                - heading "Kliniska kunskapsstöd" [level=2] [ref=e1361]
+                - list [ref=e1362]:
+                  - listitem [ref=e1363]:
+                    - link "Ögonlockssjukdomar" [ref=e1364] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ogonlockssjukdomar/
+                  - listitem [ref=e1365]:
+                    - link "Ögonskador" [ref=e1366] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ogonskador/
+                  - listitem [ref=e1367]:
+                    - link "Öppenvinkelglaukom" [ref=e1368] [cursor=pointer]:
+                      - /url: https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/riktlinjer-for-handlaggning--av-oppenvinkelglaukom/
+      - link "Till toppen av sidan" [ref=e1369] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e1370]: Till toppen av sidan
+    - contentinfo [ref=e1371]:
+      - generic [ref=e1374]:
+        - generic [ref=e1376]:
+          - heading "Kunskapsstöd" [level=2] [ref=e1377]
+          - list [ref=e1378]:
+            - listitem [ref=e1379]:
+              - link "Alla kunskapsstöd" [ref=e1380] [cursor=pointer]:
+                - /url: /Ostergotland/kunskapsstod/
+            - listitem [ref=e1381]:
+              - link "Nya och reviderade kunskapsstöd" [ref=e1382] [cursor=pointer]:
+                - /url: /Ostergotland/om-1177-for-vardpersonal/nya-och-reviderade-kunskapsstod/
+            - listitem [ref=e1383]:
+              - link "Kunskapsstöd på remiss" [ref=e1384] [cursor=pointer]:
+                - /url: /Ostergotland/om-1177-for-vardpersonal/remiss-och-synpunktsinhamtning/
+        - generic [ref=e1386]:
+          - heading "Om 1177 för vårdpersonal" [level=2] [ref=e1387]
+          - list [ref=e1388]:
+            - listitem [ref=e1389]:
+              - link "Om 1177 för vårdpersonal" [ref=e1390] [cursor=pointer]:
+                - /url: /Ostergotland/om-1177-for-vardpersonal/
+            - listitem [ref=e1391]:
+              - link "För författare" [ref=e1392] [cursor=pointer]:
+                - /url: /Ostergotland/for-forfattare/
+            - listitem [ref=e1393]:
+              - link "Kontakt" [ref=e1394] [cursor=pointer]:
+                - /url: /Ostergotland/om-1177-for-vardpersonal/kontakt/
+            - listitem [ref=e1395]:
+              - link "About us" [ref=e1396] [cursor=pointer]:
+                - /url: /Ostergotland/om-1177-for-vardpersonal/about-us/
+        - generic [ref=e1398]:
+          - heading "Digital tillgänglighet" [level=2] [ref=e1399]
+          - list [ref=e1400]:
+            - listitem [ref=e1401]:
+              - link "Tillgänglighetsredogörelse" [ref=e1402] [cursor=pointer]:
+                - /url: /Ostergotland/om-1177-for-vardpersonal/tillganglighetsredogorelse/
+            - listitem [ref=e1403]:
+              - link "Behandling av personuppgifter" [ref=e1404] [cursor=pointer]:
+                - /url: /Ostergotland/om-1177-for-vardpersonal/behandling-av-personuppgifter/
+            - listitem [ref=e1405]:
+              - link "Hantering av kakor" [ref=e1406] [cursor=pointer]:
+                - /url: /Ostergotland/om-1177-for-vardpersonal/hantering-av-kakor/
+      - generic [ref=e1409]:
+        - generic [ref=e1410]:
+          - generic [ref=e1411]: Till startsidan för 1177 för vårdpersonal
+          - img [ref=e1412]
+        - heading "för vårdpersonal undefined" [level=1] [ref=e1419]: för vårdpersonal
+        - paragraph [ref=e1421]: 1177 för vårdpersonal samlar information och nationella kunskapsstöd och är en del av Nationellt system för kunskapsstyrning hälso- och sjukvård.
+        - paragraph [ref=e1423]: 1177 för vårdpersonal drivs av Inera AB på uppdrag av Sveriges regioner.

@@ -1,0 +1,392 @@
+- generic [ref=e3]:
+  - alertdialog [ref=e5]:
+    - generic [ref=e6]:
+      - heading "Den här delen av 1177 riktar sig till vårdpersonal" [level=1] [ref=e7]
+      - generic [ref=e8]:
+        - paragraph [ref=e9]:
+          - text: Vill du fortsätta läsa information riktad till
+          - strong [ref=e10]: vårdpersonal
+          - text: tryck på Fortsätt.
+        - paragraph [ref=e11]:
+          - text: På
+          - link "1177.se" [ref=e12] [cursor=pointer]:
+            - /url: https://www.1177.se/
+          - text: finns information och e-tjänster för dig som invånare.
+      - generic "Visa inte detta meddelande igen på denna enhet" [ref=e13] [cursor=pointer]:
+        - button [ref=e14]
+        - generic [ref=e15]: Visa inte detta meddelande igen på denna enhet
+      - button "Fortsätt" [ref=e16] [cursor=pointer]
+  - generic [ref=e17]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - banner [ref=e23]:
+          - heading "Välj region:" [level=1] [ref=e24]
+        - generic [ref=e26]:
+          - list [ref=e27]:
+            - listitem [ref=e28]:
+              - link "Blekinge" [ref=e29] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=10
+                - text: Blekinge 
+            - listitem [ref=e30]:
+              - link "Dalarna" [ref=e31] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=20
+                - text: Dalarna 
+            - listitem [ref=e32]:
+              - link "Gotland" [ref=e33] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=09
+                - text: Gotland 
+            - listitem [ref=e34]:
+              - link "Gävleborg" [ref=e35] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=21
+                - text: Gävleborg 
+            - listitem [ref=e36]:
+              - link "Halland" [ref=e37] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=13
+                - text: Halland 
+            - listitem [ref=e38]:
+              - link "Jämtland Härjedalen" [ref=e39] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=23
+                - text: Jämtland Härjedalen 
+            - listitem [ref=e40]:
+              - link "Jönköpings län" [ref=e41] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=06
+                - text: Jönköpings län 
+            - listitem [ref=e42]:
+              - link "Kalmar län" [ref=e43] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=08
+                - text: Kalmar län 
+            - listitem [ref=e44]:
+              - link "Kronoberg" [ref=e45] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=07
+                - text: Kronoberg 
+            - listitem [ref=e46]:
+              - link "Norrbotten" [ref=e47] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=25
+                - text: Norrbotten 
+            - listitem [ref=e48]:
+              - link "Skåne" [ref=e49] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=12
+                - text: Skåne 
+            - listitem [ref=e50]:
+              - link "Stockholms län" [ref=e51] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=01
+                - text: Stockholms län 
+            - listitem [ref=e52]:
+              - link "Sörmland" [ref=e53] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=04
+                - text: Sörmland 
+            - listitem [ref=e54]:
+              - link "Uppsala län" [ref=e55] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=03
+                - text: Uppsala län 
+            - listitem [ref=e56]:
+              - link "Värmland" [ref=e57] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=17
+                - text: Värmland 
+            - listitem [ref=e58]:
+              - link "Västerbotten" [ref=e59] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=24
+                - text: Västerbotten 
+            - listitem [ref=e60]:
+              - link "Västernorrland" [ref=e61] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=22
+                - text: Västernorrland 
+            - listitem [ref=e62]:
+              - link "Västmanland" [ref=e63] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=19
+                - text: Västmanland 
+            - listitem [ref=e64]:
+              - link "Västra Götaland" [ref=e65] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=14
+                - text: Västra Götaland 
+            - listitem [ref=e66]:
+              - link "Örebro län" [ref=e67] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=18
+                - text: Örebro län 
+            - listitem [ref=e68]:
+              - link "Östergötland" [ref=e69] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=05
+                - text: Östergötland 
+          - link "Jag vill inte se någon regional information" [ref=e70] [cursor=pointer]:
+            - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/?selectionCode=profession_primarvard&globalregion=00
+            - text: Jag vill inte se någon regional information 
+          - paragraph [ref=e72]: Obs! Detta val innebär att du inte ser regionalt innehåll och viktig information som gäller just din region.
+      - button " Stäng regionsväljaren" [expanded] [ref=e73] [cursor=pointer]:
+        - text: 
+        - generic [ref=e74]: Stäng regionsväljaren
+    - banner [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - link [ref=e82] [cursor=pointer]:
+              - /url: /
+              - img [ref=e83]
+            - generic [ref=e90]: för vårdpersonal
+            - button "Välj region" [expanded] [ref=e94] [cursor=pointer]:
+              - generic [ref=e96]: Välj region
+          - list [ref=e98]:
+            - listitem [ref=e99]:
+              - link "För invånare" [ref=e100] [cursor=pointer]:
+                - /url: https://www.1177.se/
+                - generic [ref=e103]: För invånare
+            - listitem [ref=e105]:
+              - button "Sök" [ref=e106] [cursor=pointer]:
+                - generic [ref=e109]: Sök
+        - navigation [ref=e114]:
+          - list [ref=e115]:
+            - listitem [ref=e116]:
+              - link "Start" [ref=e117] [cursor=pointer]:
+                - /url: /
+                - generic [ref=e118]: Start
+            - listitem [ref=e119]:
+              - link "Kunskapsstöd" [ref=e120] [cursor=pointer]:
+                - /url: /kunskapsstod/
+                - generic [ref=e121]: Kunskapsstöd
+            - listitem [ref=e122]:
+              - link "Om 1177 för vårdpersonal" [ref=e123] [cursor=pointer]:
+                - /url: /om-1177-for-vardpersonal/
+                - generic [ref=e124]: Om 1177 för vårdpersonal
+    - generic [ref=e125]:
+      - generic [ref=e127]:
+        - navigation "brödsmulor" [ref=e131]:
+          - generic [ref=e132]: "Du är här:"
+          - list [ref=e133]:
+            - listitem [ref=e134]:
+              - link "Start" [ref=e135] [cursor=pointer]:
+                - /url: /
+              - text: /
+            - listitem [ref=e136]:
+              - link "Kunskapsstöd" [ref=e137] [cursor=pointer]:
+                - /url: /kunskapsstod/
+              - text: /
+            - listitem [ref=e138]:
+              - link "ABCDE, initialt omhändertagande" [ref=e139] [cursor=pointer]:
+                - /url: /kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/
+        - main [ref=e140]:
+          - generic [ref=e142]:
+            - generic [ref=e144]:
+              - generic [ref=e146]:
+                - generic [ref=e147]: Kliniskt kunskapsstöd
+                - generic "ABCDE, initialt omhändertagande" [ref=e149]
+              - generic [ref=e150]:
+                - generic [ref=e151]: "Visa innehåll för:"
+                - list [ref=e152]:
+                  - listitem [ref=e153]:
+                    - generic [ref=e154]: Primärvård
+                  - listitem [ref=e155]:
+                    - button "Specialiserad vård Innehåll för specialiserad vård är ännu ej tillgängligt" [disabled] [ref=e156]:
+                      - text: Specialiserad vård
+                      - generic [ref=e157]: Innehåll för specialiserad vård är ännu ej tillgängligt
+                  - listitem [ref=e158]:
+                    - button "Tandvård Innehåll för tandvård är ännu ej tillgängligt" [disabled] [ref=e159]:
+                      - text: Tandvård
+                      - generic [ref=e160]: Innehåll för tandvård är ännu ej tillgängligt
+            - generic [ref=e161]:
+              - generic [ref=e162]:
+                - heading "ABCDE, initialt omhändertagande" [level=1] [ref=e165]
+                - generic [ref=e166]:
+                  - generic [ref=e167]:
+                    - heading "Om hälsotillståndet" [level=2] [ref=e168]
+                    - generic [ref=e170]:
+                      - heading "Definition" [level=3] [ref=e171]
+                      - generic [ref=e174]:
+                        - paragraph [ref=e175]: "ABCDE är en undersökningsteknik för att systematiskt bedöma allmänpåverkade patienter och säkerställa vitala funktioner. Bokstäverna kommer från engelska:"
+                        - list [ref=e176]:
+                          - listitem [ref=e177]: A – Airway & cervical spine – Luftvägar
+                          - listitem [ref=e178]: B – Breathing – Andning
+                          - listitem [ref=e179]: C – Circulation – Cirkulation
+                          - listitem [ref=e180]: D – Disability – Medvetande
+                          - listitem [ref=e181]: E – Exposure – Exponering.
+                  - generic [ref=e182]:
+                    - heading "Utredning" [level=2] [ref=e183]
+                    - generic [ref=e184]:
+                      - generic [ref=e185]:
+                        - heading "Status" [level=3] [ref=e186]
+                        - generic [ref=e188]:
+                          - button "Förstora tabellen " [ref=e189] [cursor=pointer]:
+                            - generic [ref=e190]: Förstora tabellen
+                            - text: 
+                          - generic [ref=e191]:
+                            - heading "ABCDE. initialt omhändertagande" [level=4] [ref=e192]
+                            - table [ref=e194]:
+                              - rowgroup [ref=e195]:
+                                - row "Undersök Överväg att" [ref=e196]:
+                                  - columnheader [ref=e197]
+                                  - columnheader "Undersök" [ref=e198]
+                                  - columnheader "Överväg att" [ref=e199]
+                              - rowgroup [ref=e200]:
+                                - row "Säkerhet Platssäkerhet Personalsäkerhet Patientsäkerhet Använda skyddsutrustning Flytta till akutrum eller hämta akutvagn och behandla på plats Larma ambulans — ring 112" [ref=e201]:
+                                  - rowheader "Säkerhet" [ref=e202]
+                                  - cell "Platssäkerhet Personalsäkerhet Patientsäkerhet" [ref=e203]:
+                                    - list [ref=e204]:
+                                      - listitem [ref=e205]: Platssäkerhet
+                                      - listitem [ref=e206]: Personalsäkerhet
+                                      - listitem [ref=e207]: Patientsäkerhet
+                                  - cell "Använda skyddsutrustning Flytta till akutrum eller hämta akutvagn och behandla på plats Larma ambulans — ring 112" [ref=e208]:
+                                    - list [ref=e209]:
+                                      - listitem [ref=e210]: Använda skyddsutrustning
+                                      - listitem [ref=e211]: Flytta till akutrum eller hämta akutvagn och behandla på plats
+                                      - listitem [ref=e212]: Larma ambulans — ring 112
+                                - row "Hjärtstopp Medvetslös utan andning Påbörja S-HLR" [ref=e213]:
+                                  - rowheader "Hjärtstopp" [ref=e214]
+                                  - cell "Medvetslös utan andning" [ref=e215]:
+                                    - list [ref=e216]:
+                                      - listitem [ref=e217]: Medvetslös utan andning
+                                  - cell "Påbörja S-HLR" [ref=e218]:
+                                    - list [ref=e219]:
+                                      - listitem [ref=e220]: Påbörja S-HLR
+                                - row "A — Luftvägar Luftflöde från mun och näsa, heshet, stridor Munhåla — ödem, slem kräkning, främmande kropp Palpation av huvud, hals, nacke Fria luftvägar med haklyft, käklyft, svalgtub eller näskantarell Suga rent vid slem Avlägsna främmande kropp eller lös tandprotes Behandla anafylaxi eller ödem Stabilisera nacken manuellt vid misstänkt skada" [ref=e221]:
+                                  - rowheader "A — Luftvägar" [ref=e222]
+                                  - cell "Luftflöde från mun och näsa, heshet, stridor Munhåla — ödem, slem kräkning, främmande kropp Palpation av huvud, hals, nacke" [ref=e223]:
+                                    - list [ref=e224]:
+                                      - listitem [ref=e225]: Luftflöde från mun och näsa, heshet, stridor
+                                      - listitem [ref=e226]: Munhåla — ödem, slem kräkning, främmande kropp
+                                      - listitem [ref=e227]: Palpation av huvud, hals, nacke
+                                  - cell "Fria luftvägar med haklyft, käklyft, svalgtub eller näskantarell Suga rent vid slem Avlägsna främmande kropp eller lös tandprotes Behandla anafylaxi eller ödem Stabilisera nacken manuellt vid misstänkt skada" [ref=e228]:
+                                    - list [ref=e229]:
+                                      - listitem [ref=e230]: Fria luftvägar med haklyft, käklyft, svalgtub eller näskantarell
+                                      - listitem [ref=e231]: Suga rent vid slem
+                                      - listitem [ref=e232]: Avlägsna främmande kropp eller lös tandprotes
+                                      - listitem [ref=e233]: Behandla anafylaxi eller ödem
+                                      - listitem [ref=e234]: Stabilisera nacken manuellt vid misstänkt skada
+                                - row "B — Andning Syresaturation Andningsfrekvens Andningsmönster Lungauskultation — obstruktivitet, rassel Ge syrgas 5—15 liter/minut via mask Ventilera via mask eller Rubens blåsa vid andningssvikt Behandla obstruktivitet" [ref=e235]:
+                                  - rowheader "B — Andning" [ref=e236]
+                                  - cell "Syresaturation Andningsfrekvens Andningsmönster Lungauskultation — obstruktivitet, rassel" [ref=e237]:
+                                    - list [ref=e238]:
+                                      - listitem [ref=e239]: Syresaturation
+                                      - listitem [ref=e240]: Andningsfrekvens
+                                      - listitem [ref=e241]: Andningsmönster
+                                      - listitem [ref=e242]: Lungauskultation — obstruktivitet, rassel
+                                  - cell "Ge syrgas 5—15 liter/minut via mask Ventilera via mask eller Rubens blåsa vid andningssvikt Behandla obstruktivitet" [ref=e243]:
+                                    - list [ref=e244]:
+                                      - listitem [ref=e245]: Ge syrgas 5—15 liter/minut via mask
+                                      - listitem [ref=e246]: Ventilera via mask eller Rubens blåsa vid andningssvikt
+                                      - listitem [ref=e247]: Behandla obstruktivitet
+                                - row "C — Cirkulation Pulsar Blodtryck Kapillär återfyllnad Hudtemp och färg Pågående blödning Ge 500—1 000 ml Ringer-acetat iv vid hypotoni Monitorera via defibrillator vid arytmi Behandla arytmi Stoppa pågående blödning" [ref=e248]:
+                                  - rowheader "C — Cirkulation" [ref=e249]
+                                  - cell "Pulsar Blodtryck Kapillär återfyllnad Hudtemp och färg Pågående blödning" [ref=e250]:
+                                    - list [ref=e251]:
+                                      - listitem [ref=e252]: Pulsar
+                                      - listitem [ref=e253]: Blodtryck
+                                      - listitem [ref=e254]: Kapillär återfyllnad
+                                      - listitem [ref=e255]: Hudtemp och färg
+                                      - listitem [ref=e256]: Pågående blödning
+                                  - cell "Ge 500—1 000 ml Ringer-acetat iv vid hypotoni Monitorera via defibrillator vid arytmi Behandla arytmi Stoppa pågående blödning" [ref=e257]:
+                                    - list [ref=e258]:
+                                      - listitem [ref=e259]: Ge 500—1 000 ml Ringer-acetat iv vid hypotoni
+                                      - listitem [ref=e260]: Monitorera via defibrillator vid arytmi
+                                      - listitem [ref=e261]: Behandla arytmi
+                                      - listitem [ref=e262]: Stoppa pågående blödning
+                                - row "D — Medvetande Medvetandegrad Pupillreaktion Grov kraft och känsel i extremiteter B-glukos Behandla krampanfall Behandla hypoglykemi Ge naloxon vid misstänkt opiatintoxikation" [ref=e263]:
+                                  - rowheader "D — Medvetande" [ref=e264]
+                                  - cell "Medvetandegrad Pupillreaktion Grov kraft och känsel i extremiteter B-glukos" [ref=e265]:
+                                    - list [ref=e266]:
+                                      - listitem [ref=e267]: Medvetandegrad
+                                      - listitem [ref=e268]: Pupillreaktion
+                                      - listitem [ref=e269]: Grov kraft och känsel i extremiteter
+                                      - listitem [ref=e270]: B-glukos
+                                  - cell "Behandla krampanfall Behandla hypoglykemi Ge naloxon vid misstänkt opiatintoxikation" [ref=e271]:
+                                    - list [ref=e272]:
+                                      - listitem [ref=e273]: Behandla krampanfall
+                                      - listitem [ref=e274]: Behandla hypoglykemi
+                                      - listitem [ref=e275]: Ge naloxon vid misstänkt opiatintoxikation
+                                - row "E — Exponering Inspektion av kroppen Temp Ge en filt vid nedkylning" [ref=e276]:
+                                  - rowheader "E — Exponering" [ref=e277]
+                                  - cell "Inspektion av kroppen Temp" [ref=e278]:
+                                    - list [ref=e279]:
+                                      - listitem [ref=e280]: Inspektion av kroppen
+                                      - listitem [ref=e281]: Temp
+                                  - cell "Ge en filt vid nedkylning" [ref=e282]:
+                                    - list [ref=e283]:
+                                      - listitem [ref=e284]: Ge en filt vid nedkylning
+                      - generic [ref=e285]:
+                        - heading "Handläggning vid utredning" [level=3] [ref=e286]
+                        - list [ref=e290]:
+                          - listitem [ref=e291]: Undersök och handlägg patienten enligt ABCDE.
+                          - listitem [ref=e292]: Gör differentialdiagnostiska överväganden kring vad som kan orsaka patientens tillstånd.
+                          - listitem [ref=e293]: Bedöm vilken utredning och behandling patienten behöver utifrån patientens allmäntillstånd och misstänkt orsak.
+                          - listitem [ref=e294]: Konsultera specialiserad vård akut och överväg akut transport vid behov.
+                      - generic [ref=e295]:
+                        - heading "Differentialdiagnoser" [level=3] [ref=e296]
+                        - generic [ref=e299]:
+                          - paragraph [ref=e300]: "Exempel på tillstånd som orsaka akut allmänpåverkan, indelade enligt ABCDE:"
+                          - list [ref=e301]:
+                            - listitem [ref=e302]: A – främmande kropp, aspiration, anafylaxi, ödem, epiglottit, tyroideaexpansivitet
+                            - listitem [ref=e303]: B – astma, KOL, pneumoni, lungödem, övertryckspneumothorax, ketoacidos (hyperventilation)
+                            - listitem [ref=e304]: C – hjärtsvikt, arytmi, hjärtinfarkt, sepsis, myokardit, endokardit, klaffruptur, hjärttamponad, lungemboli, hypovolemi, addisonkris
+                            - listitem [ref=e305]: D – sepsis, epilepsi, meningit/encefalit, intoxikation, hypoglykemi, andningsinsufficiens, stroke, subduralblödning
+                            - listitem [ref=e306]: E – sepsis, hypotermi.
+                - heading "Om innehållet" [level=2] [ref=e307]
+                - generic [ref=e308]: Nationellt innehåll
+                - generic [ref=e310]:
+                  - generic [ref=e311]:
+                    - generic [ref=e313]: "Godkänt:"
+                    - generic [ref=e315]: 2024-09-10
+                  - generic [ref=e316]:
+                    - generic [ref=e318]: "Godkänt av:"
+                    - link "Nationellt programområde akut vård" [ref=e321] [cursor=pointer]:
+                      - /url: https://kunskapsstyrningvard.se/kunskapsstyrningvard/programomradenochsamverkansgrupper/nationellaprogramomraden/npoakutvard.56422.html
+              - navigation [ref=e328]:
+                - heading "Sidans innehåll" [level=2] [ref=e329]
+                - list [ref=e330]:
+                  - listitem [ref=e331]:
+                    - link [ref=e332] [cursor=pointer]:
+                      - /url: "#section-1611"
+                      - text: Om hälsotillståndet
+                    - button [ref=e333] [cursor=pointer]
+                  - listitem [ref=e334]:
+                    - link [ref=e335] [cursor=pointer]:
+                      - /url: "#section-1620"
+                      - text: Utredning
+                    - button [ref=e336] [cursor=pointer]
+      - link "Till toppen av sidan" [ref=e337] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e338]: Till toppen av sidan
+    - contentinfo [ref=e339]:
+      - generic [ref=e342]:
+        - generic [ref=e344]:
+          - heading "Kunskapsstöd" [level=2] [ref=e345]
+          - list [ref=e346]:
+            - listitem [ref=e347]:
+              - link "Alla kunskapsstöd" [ref=e348] [cursor=pointer]:
+                - /url: /kunskapsstod/
+            - listitem [ref=e349]:
+              - link "Nya och reviderade kunskapsstöd" [ref=e350] [cursor=pointer]:
+                - /url: /om-1177-for-vardpersonal/nya-och-reviderade-kunskapsstod/
+            - listitem [ref=e351]:
+              - link "Kunskapsstöd på remiss" [ref=e352] [cursor=pointer]:
+                - /url: /om-1177-for-vardpersonal/remiss-och-synpunktsinhamtning/
+        - generic [ref=e354]:
+          - heading "Om 1177 för vårdpersonal" [level=2] [ref=e355]
+          - list [ref=e356]:
+            - listitem [ref=e357]:
+              - link "Om 1177 för vårdpersonal" [ref=e358] [cursor=pointer]:
+                - /url: /om-1177-for-vardpersonal/
+            - listitem [ref=e359]:
+              - link "För författare" [ref=e360] [cursor=pointer]:
+                - /url: /for-forfattare/
+            - listitem [ref=e361]:
+              - link "Kontakt" [ref=e362] [cursor=pointer]:
+                - /url: /om-1177-for-vardpersonal/kontakt/
+            - listitem [ref=e363]:
+              - link "About us" [ref=e364] [cursor=pointer]:
+                - /url: /om-1177-for-vardpersonal/about-us/
+        - generic [ref=e366]:
+          - heading "Digital tillgänglighet" [level=2] [ref=e367]
+          - list [ref=e368]:
+            - listitem [ref=e369]:
+              - link "Tillgänglighetsredogörelse" [ref=e370] [cursor=pointer]:
+                - /url: /om-1177-for-vardpersonal/tillganglighetsredogorelse/
+            - listitem [ref=e371]:
+              - link "Behandling av personuppgifter" [ref=e372] [cursor=pointer]:
+                - /url: /om-1177-for-vardpersonal/behandling-av-personuppgifter/
+            - listitem [ref=e373]:
+              - link "Hantering av kakor" [ref=e374] [cursor=pointer]:
+                - /url: /om-1177-for-vardpersonal/hantering-av-kakor/
+      - generic [ref=e377]:
+        - generic [ref=e378]:
+          - generic [ref=e379]: Till startsidan för 1177 för vårdpersonal
+          - img [ref=e380]
+        - heading "för vårdpersonal undefined" [level=1] [ref=e387]: för vårdpersonal
+        - paragraph [ref=e389]: 1177 för vårdpersonal samlar information och nationella kunskapsstöd och är en del av Nationellt system för kunskapsstyrning hälso- och sjukvård.
+        - paragraph [ref=e391]: 1177 för vårdpersonal drivs av Inera AB på uppdrag av Sveriges regioner.

@@ -1,0 +1,2497 @@
+{
+  "metadata": {
+    "source": "https://vardpersonal.1177.se/Ostergotland/kunskapsstod/",
+    "title": "Kunskapsstöd - 1177 för vårdpersonal Östergötland",
+    "description": "Complete index of medical knowledge support materials for healthcare professionals",
+    "last_updated": "2026-04-28T11:13:24.999482",
+    "total_items": 463,
+    "data_collection_phase": true,
+    "content_status": "Directory scraped successfully. Full page content can be collected via Playwright browser automation.",
+    "pdf_links": 40,
+    "html_pages": 423,
+    "total_links": 463
+  },
+  "structure": {
+    "letters": [
+      "#",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "Y",
+      "Ä",
+      "Å",
+      "Ö"
+    ],
+    "types": [
+      "Kliniska kunskapsstöd",
+      "Vårdprogram",
+      "Vårdriktlinjer",
+      "Vårdförlopp"
+    ]
+  },
+  "items_by_letter": {
+    "#": {
+      "count": 1,
+      "items": [
+        {
+          "title": "22q11-deletionssyndromet",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/22q11-deletionssyndromet.pdf",
+          "type": "Vårdprogram"
+        }
+      ]
+    },
+    "A": {
+      "count": 36,
+      "items": [
+        {
+          "title": "ABCDE, initialt omhändertagande",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/abcde-initialt-omhandertagande/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Adenoidhypertrofi hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/adenoidhypertrofi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Adhd",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/adhd/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Akne",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akne/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Akromegali",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akromegali/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Akromioklavikularledsartros",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akromioklavikularledsartros/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Akromioklavikularledsskada",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akromioklavikularledsskada/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Aktinisk keratos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/aktinisk-keratos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Akut hjärtarytmi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akut-hjartarytmi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Akut leukemi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akut-leukemi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Akut trångvinkelattack",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/akut-trangvinkelattack/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Alarmsymtom vid misstanke om cancer hos barn och unga under 18 år",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/alarmsymtom-vid-misstanke-om-cancer-hos-barn-och-unga-under-18-ar/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Allergi vid bi- eller getingstick",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/allergi-vid-bi--eller-getingstick/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Allergisk rinokonjunktivit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/allergisk-rinokonjunktivit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Allvarliga ospecifika symtom som kan bero på cancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/allvarliga-ospecifika-symtom-som-kan-bero-pa-cancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Amenorré",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/amenorre/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Anafylaxi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/anafylaxi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Analabscess",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/analabscess/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Analcancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/analcancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Analfistel",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/analfistel/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Andningsbesvär, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/andningsbesvar-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Anemi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/anemi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Anemi hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/anemi-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Anterior icke-arteritisk ischemisk  optikusneuropati (NAION)",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/anterior-icke-arteritisk-ischemisk--optikusneuropati-naion/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Aortainsufficiens",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/aortainsufficiens/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Aortastenos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/aortastenos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Arbetsrelaterad astma, KOL och rinit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/arbetsrelaterad-astma-kol-och-rinit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Artriter",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/artriter/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Astma",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/astma/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Astma hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/astma-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Astma hos barn, akut anfall",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/astma-hos-barn-akut-anfall/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Atopisk dermatit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/atopisk-dermatit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Autism med intellektuell funktionsnedsättning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/autism-med-intellektuell-funktionsnedsattning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Axelledsartros",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/axelledsartros/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Axial spondylartrit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/axial-spondylartrit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Akut appendicit",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-akut-appendicit2.pdf",
+          "type": "Vårdprogram"
+        }
+      ]
+    },
+    "B": {
+      "count": 24,
+      "items": [
+        {
+          "title": "Bakteriell endoftalmit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bakteriell-endoftalmit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bakteriell prostatit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bakteriell-prostatit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bakteriell vaginos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bakteriell-vaginos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Barn som far illa",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/barn-som-far-illa/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bartolinit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bartolinit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Basalcellscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/basalcellscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Benartärsjukdom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/benartarsjukdom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Benartärsjukdom, sekundärprevention",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/benartarsjukdom-sekundarprevention/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Benign prostatahyperplasi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/benign-prostatahyperplasi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bettskador",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bettskador/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Binjurebarkssvikt",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/binjurebarkssvikt/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Binjureincidentalom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/binjureincidentalom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Blåsljud hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/blasljud-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Borrelia",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/borrelia/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Brist på vitamin B12 och folat",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/brist-pa-vitamin-b12-och-folat/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bröstcancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/brostcancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bröstreduktionsplastik",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/brostreduktionsplastik/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bröstsmärta och hjärtklappning hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/brostsmarta-och-hjartklappning-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bukaortaaneurysm",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bukaortaaneurysm/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Buksarkom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/buksarkom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bukspottkörtelcancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/bukspottkortelcancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Buksymtom hos barn, akut",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/buksymtom-hos-barn-akut/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bäckenbottensmärtsyndrom hos man, kroniskt",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/backenbottensmartsyndrom-hos-man-kroniskt/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Bältros",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/baltros/",
+          "type": "Kliniska kunskapsstöd"
+        }
+      ]
+    },
+    "C": {
+      "count": 8,
+      "items": [
+        {
+          "title": "Cancer utan känd primärtumör",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/cancer-utan-kand-primartumor/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Candidainfektion, oral och intertriginös",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/candidainfektion-oral-och-intertriginos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Candidavulvovaginit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/candidavulvovaginit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Celiaki",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/celiaki/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Celiaki hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/celiaki-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Cerebral pares",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/cerebral-pares/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Clostridioides difficile",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/clostridioides-difficile/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Cushings syndrom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/cushings-syndrom/",
+          "type": "Kliniska kunskapsstöd"
+        }
+      ]
+    },
+    "D": {
+      "count": 18,
+      "items": [
+        {
+          "title": "Degenerativ meniskskada i knäled",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/degenerativ-meniskskada-i-knaled/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Depression",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/depression/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Diabetes typ 2, uppföljning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetes-typ-2-uppfoljning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Diabetes – glukossänkande läkemedelsbehandling vid typ 2-diabetes",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetes--glukossankande-lakemedelsbehandling-vid-typ-2-diabetes/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Diabetes, fotkomplikationer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetes-fotkomplikationer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Diabetes, transitionsvård för unga personer med typ 1-diabetes",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetes-transitionsvard-for-unga-personer-med-typ-1-diabetes/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Diabetes, utredning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetes-utredning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Diabetesketoacidos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetesketoacidos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Diabetesretinopati",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetesretinopati/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Diabetesretinopati – handläggning av proliferativ diabetesretinopati (PDR)",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/diabetesretinopati--handlaggning-av-proliferativ-diabetesretinopati-pdr/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Divertikulit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/divertikulit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Djup ventrombos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/djup-ventrombos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Droppfinger",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/droppfinger/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Dupuytrens kontraktur",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/dupuytrens-kontraktur/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Dysmenorré",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/dysmenorre/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Depression hos vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/depression-hos-vuxna/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Diabetes med hög risk för fotsår",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/diabetes-med-hog-risk-for-fotsar/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Distal radiusfraktur",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-behandling-av-distala-radiusfrakturer.pdf",
+          "type": "Vårdprogram"
+        }
+      ]
+    },
+    "E": {
+      "count": 10,
+      "items": [
+        {
+          "title": "Ehlers-Danlos syndrom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ehlers-danlos-syndrom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Endokardit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/endokardit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Endokrin oftalmopati",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/endokrin-oftalmopati/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Endometrios",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/endometrios/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Enures hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/enures-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Epilepsi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/epilepsi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Erektil dysfunktion",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/erektil-dysfunktion/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Erysipelas",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/erysipelas/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Essentiell tremor",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/essentiell-tremor/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Epilepsi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/epilepsi/",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "F": {
+      "count": 15,
+      "items": [
+        {
+          "title": "Fetma",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/fetma/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Fibromyalgi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/fibromyalgi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Fimosis hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/fimosis-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Flerfunktionsnedsättning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/flerfunktionsnedsattning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Follikulit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/follikulit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Fotledsartros",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/fotledsartros/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Fotledsdistorsion",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/fotledsdistorsion/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Frusen skuldra",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/frusen-skuldra/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Funktionell buksmärta hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/funktionell-buksmarta-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Funktionell diarré hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/funktionell-diarre-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Funktionella kräkningar hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/funktionella-krakningar-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Furunkel och karbunkel",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/furunkel-och-karbunkel/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Förmaksflimmer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/formaksflimmer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Förstoppning hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/forstoppning-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Fosterdiagnostik – kartläggning och rekommendationer",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-fosterdiagnostik-kartlaggning-och-rekommendation.pdf",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "G": {
+      "count": 12,
+      "items": [
+        {
+          "title": "Gallblåse- och gallvägscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gallblase--och-gallvagscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Gallstenssjukdom, okomplicerad",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gallstenssjukdom-okomplicerad/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Ganglion",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ganglion/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Gastroenterit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gastroenterit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Gastroenterit hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gastroenterit-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Genital prolaps",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/genital-prolaps/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Gikt",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gikt/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Gonorré",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gonorre/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Gynekologiska blödningsrubbningar",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gynekologiska-blodningsrubbningar/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Gynekomasti",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/gynekomasti/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Grav hörselnedsättning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/grav-horselnedsattning/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Gallstenssjukdom",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-gallstenssjukdom.pdf",
+          "type": "Vårdprogram"
+        }
+      ]
+    },
+    "H": {
+      "count": 52,
+      "items": [
+        {
+          "title": "Hallux rigidus",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hallux-rigidus/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hallux valgus",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hallux-valgus/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hammartå och andra småtådeformiteter",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hammarta/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Handeksem",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/handeksem/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Handledsfraktur",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/handledsfraktur/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hepatit A",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hepatit-a/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hepatit B",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hepatit-b/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hepatit C",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hepatit-c/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hereditära retinala sjukdomar",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hereditara-retinala-sjukdomar/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Herpes simplex",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/herpes-simplex/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Herpes zoster oftalmicus",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/herpes-zoster-oftalmicus/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hidradenitis suppurativa",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hidradenitis-suppurativa/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hivinfektion",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hiv-infektion/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hjärntumör",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hjarntumor/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hjärtarytmi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hjartarytmi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hjärtstopp",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hjartstopp/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hjärtsvikt",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hjartsvikt/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hudlymfom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hudlymfom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hudmelanom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hudmelanom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Huvud- och halscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/huvud--och-halscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Huvudvärk hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/huvudvark-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Huvudvärk, akut",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/huvudvark-akut/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hydrocele, spermatocele och varikocele",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hydrocele-spermatocele-och-varikocele/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hyperglykemi hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperglykemi-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hyperhidros",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperhidros/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hyperkalcemi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperkalcemi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hyperkalcemi, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperkalcemi-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hyperlipidemi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperlipidemi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hypermobilitetsspektrumstörning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypermobilitetsspektrumstorning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hyperprolaktinemi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyperprolaktinemi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hypertoni",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypertoni/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hypertyreos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypertyreos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hypofysinsufficiens",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypofysinsufficiens/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hypoglykemi hos barn med diabetes",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypoglykemi-hos-barn-med-diabetes/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hypoglykemi vid diabetes",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypoglykemi-vid-diabetes/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hypogonadism hos män",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypogonadism-hos-man/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hypokalcemi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypokalcemi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hypokalemi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypokalemi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hyponatremi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hyponatremi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hypotyreos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hypotyreos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hälta hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/halta-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Håravfall",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/haravfall/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Höftfraktur",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hoftfraktur/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Höftledsartros",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hoftledsartros/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hörselasymmetri hos vuxna, utredning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/horselasymmetri-hos-vuxna-utredning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Höstblåsor",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/hostblasor/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Hjärtsvikt",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/hjartsvikt/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Höftledsartros - primärvård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/hoftledsartros---primarvard/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Höftledsartros - proteskirurgi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/hoftledsartros---proteskirurgi/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Hypertyreos",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-hypertyreos.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Höftfraktur",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-hoftfraktur.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Handläggning i graviditetsvecka 41",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-i-graviditetsvecka-41.pdf",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "I": {
+      "count": 13,
+      "items": [
+        {
+          "title": "IBD, inflammatorisk tarmsjukdom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ibd-inflammatorisk-tarmsjukdom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Idiopatisk intrakraniell hypertension – ögonuppföljning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/idiopatisk-intrakraniell-hypertension--ogonuppfoljning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Illamående, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/illamaende-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Impetigo",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/impetigo/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Impingement i axelled",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/impingement-i-axelled/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Infektiös keratit orsakad av bakterier, svamp och protozoer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/infektios-keratit-orsakad-av-bakterier-svamp-och-protozoer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Influensa",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/influensa/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Initial obruten hud-mot-hudkontakt och samvård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/initial-obruten-hud-mot-hudkontakt-och-samvard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Instabilitet i axelled",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/instabilitet-i-axelled/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Intellektuell funktionsnedsättning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/intellektuell-funktionsnedsattning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Inflammatorisk tarmsjukdom (IBD) - vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/inflammatorisk-tarmsjukdom-ibd---vuxna/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Inflammatorisk tarmsjukdom (IBD) hos vuxna",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-vuxna-med-inflammatorisk-tarmsjukdom-ibd.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Injektionsbehandling av synnedsättande centralt diabetesmakulaödem (CIDME)",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-injektionsbehandling-av-synnedsattande-centralt-diabetesmakulaodemcidme.pdf",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "J": {
+      "count": 2,
+      "items": [
+        {
+          "title": "Jättecellsarterit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/jattecellsarterit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Jättecellsarterit (GCA)",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/jattecellsarterit-gca/",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "K": {
+      "count": 25,
+      "items": [
+        {
+          "title": "Karpaltunnelsyndrom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/karpaltunnelsyndrom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Katarakt",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/katarakt/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Kikhosta",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kikhosta/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Klamydia",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/klamydia/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Klusterhuvudvärk",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/klusterhuvudvark/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Klåda",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/klada/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Knäledsartros",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/knaledsartros/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "KOL-exacerbation",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kol-exacerbation/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Kolecystit, akut",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kolecystit-akut/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Kondylom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kondylom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Konfusion, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/konfusion-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Konjunktivala melanocytära lesioner",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/konjunktivala-melanocytara-lesioner/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Kontakteksem",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kontakteksem/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Krampanfall, akut",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/krampanfall-akut/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Kranskärlssjukdom, akut",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kranskarlssjukdom-akut/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Kranskärlssjukdom, kronisk",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kranskarlssjukdom-kronisk/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Kroniskt obstruktiv lungsjukdom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kroniskt-obstruktiv-lungsjukdom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Kroniskt trötthetssyndrom, ME/CFS",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/kroniskt-trotthetssyndrom-mecfs/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Karies",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/karies/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Knäledsartros",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/knaledsartros/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Knäledsartros - proteskirurgi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/knaledsartros---proteskirurgi/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Kognitiv svikt vid misstänkt demenssjukdom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/kognitiv-svikt-vid-misstankt-demenssjukdom/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Kritisk benischemi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/kritisk-benischemi/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Kroniskt obstruktiv lungsjukdom (KOL)",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/kroniskt-obstruktiv-lungsjukdom-kol/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Korneala ektasier: keratokonus, pellucid marginell degeneration och ektasi efter refraktiv korneakirurgi",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-korneala-ektasier-keratokonus-pellucid-marginell-degeneration-och-ektasi-efter-refraktiv-korneakirurgi.pdf",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "L": {
+      "count": 22,
+      "items": [
+        {
+          "title": "Laktosintolerans",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/laktosintolerans/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Laktosintolerans hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/laktosintolerans-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lebers hereditära optikusneuropati",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lebers-hereditara-optikusneuropati/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Levercancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/levercancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Liktorn, klavus",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/liktorn-klavus/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Livmoderhalscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/livmoderhalscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Livmoderkroppscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/livmoderkroppscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Ljumskbråck",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ljumskbrack/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lumbago",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lumbago/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lumbago-ischias",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lumbago-ischias/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lumbal spinal stenos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lumbal-spinal-stenos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lungcancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lungcancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lungemboli",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lungemboli/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lungödem",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lungodem/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lus- och loppbett",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lus--och-loppbett/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lymfogranulom, veneriskt",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lymfogranulom-veneriskt/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lymfödem, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lymfodem-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Läkemedelsöveranvändningshuvudvärk",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/lakemedelsoveranvandningshuvudvark/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Lungfibros - vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/lungfibros/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Ländryggsbesvär hos vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/landryggsbesvar-hos-vuxna/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Levercirros",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-levercirros.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Levnadsvanor",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/levnadsvanor.pdf",
+          "type": "Vårdprogram"
+        }
+      ]
+    },
+    "M": {
+      "count": 24,
+      "items": [
+        {
+          "title": "M-komponent",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/m-komponent/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Maligna lymfom och kronisk lymfatisk leukemi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/maligna-lymfom-och-kronisk-lymfatisk-leukemi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Matallergi hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/matallergi-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Matstrups- och magsäckscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/matstrups--och-magsackscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Mediaotit, akut",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mediaotit-akut/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Mediaotit, sekretorisk",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mediaotit-sekretorisk/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Melanocytärt nevus",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/melanocytart-nevus/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Menorragi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/menorragi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Mensförskjutning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mensforskjutning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Migrän",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/migran/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Migrän hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/migran-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Mitralisinsufficiens",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mitralisinsufficiens/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Mitralisstenos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mitralisstenos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Mollusker",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mollusker/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Mortons neuralgi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mortons-neuralgi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Multipel skleros, MS",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/multipel-skleros-ms/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Munbesvär, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/munbesvar-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Muntorrhet",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/muntorrhet/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Mycoplasma genitalium",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/mycoplasma-genitalium/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Myelom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/myelom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Myeloproliferativ neoplasi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/myeloproliferativ-neoplasi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Mässling",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/massling/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Matallergi, IgE-förmedlad",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/matallergi-ige-formedlad/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Migrän",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-migran.pdf",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "N": {
+      "count": 12,
+      "items": [
+        {
+          "title": "Nedsatt lukt- och smaksinne",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/nedsatt-lukt--och-smaksinne/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Neuroendokrina buktumörer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/neuroendokrina-buktumorer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Njurcancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/njurcancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Njursjukdom, kronisk",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/njursjukdom-kronisk/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Njursten",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/njursten/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Njurtransplantation med levande donator",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/njurtransplantation-med-levande-donator/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Njurtransplanterad",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/njurtransplanterad/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Nokturi och nattlig polyuri",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/nokturi-och-nattlig-polyuri/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Näsblödning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/nasblodning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Normaltryckshydrocefalus – idiopatisk",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/normaltryckshydrocefalus-idiopatisk/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Njursjukdom, kronisk",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-kronisk-njursjukdom.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Narkolepsi",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-behandling-av-narkolepsi-hos-barn-och-vuxna.pdf",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "O": {
+      "count": 17,
+      "items": [
+        {
+          "title": "Obesitas hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/obesitas-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Obstipation, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/obstipation-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Obstruktiv sömnapné",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/obstruktiv-somnapne/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Obstruktiv sömnrelaterad andningsstörning hos barn (OSDB)",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/obstruktiv-somnapne-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Ofrivillig barnlöshet, infertilitet",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ofrivillig-barnloshet-infertilitet/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Ohälsosamma matvanor",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ohalsosamma-matvanor/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Optikusneurit hos vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/optikusneurit-hos-vuxna/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Oro och ångest, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/oro-och-angest-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Osteoporos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/osteoporos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Otillräcklig fysisk aktivitet",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/otillracklig-fysisk-aktivitet/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Obstruktiv sömnapné (OSA) hos vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/obstruktiv-somnapne-osa-hos-vuxna/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Obstruktiv sömnrelaterad andningsstörning (OSDB) hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/obstruktiv-somnrelaterad-andningsstorning-OSDB-hos-barn/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Osteoporos - sekundärprevention efter fraktur",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/osteoporos---sekundarprevention-efter-fraktur/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Obesitas hos barn och ungdomar",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/obesitas-hos-barn-och-ungdomar.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Obstruktiv sömnapné hos vuxna",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-behandling-av-obstruktiv-somnapne-hos-vuxna-slutversion.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Otoskleros",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/otoskleros",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Onormal blödning från livmodern",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-onormal-blodning-fran-livmodern.pdf",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "P": {
+      "count": 34,
+      "items": [
+        {
+          "title": "Parkinsonism och Parkinsons sjukdom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/parkinsonism-och-parkinsons-sjukdom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Penicillinallergi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/penicillinallergi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Peniscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/peniscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Periokulär basalcellscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/periokular-basalcellscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Periokulär skivepitelcancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/periokular-skivepitelcancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Periokulär talgkörtelcancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/periokular-talgkortelcancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Perioral dermatit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/perioral-dermatit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Periorbital nekrotiserande fasciit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/periorbital-nekrotiserande-fasciit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Periorbitala  och orbitala infektioner",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/periorbitala--och-orbitala-infektioner/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Pilonidalsinus",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pilonidalsinus/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Pityriasis rosea",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pityriasis-rosea/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Pityriasis versicolor",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pityriasis-versicolor/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Plantar fasciopati, hälsporre",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/plantar-fasciopati-halsporre/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Pneumoni",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pneumoni/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Pneumoni hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pneumoni-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Polycytemi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/polycytemi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Polymyalgia reumatika",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/polymyalgia-reumatika/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Polyneuropati",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/polyneuropati/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Posttraumatiskt stressyndrom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/posttraumatiskt-stressyndrom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Premenstruellt syndrom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/premenstruellt-syndrom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Primär immunbrist",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/primar-immunbrist/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Primär immunbrist hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/primar-immunbrist-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Prostatacancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/prostatacancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Provocerad vulvodyni",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/provocerad-vulvodyni/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Psoriasis",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/psoriasis/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Psoriasisartrit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/psoriasisartrit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Purpura hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/purpura-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Pustulosis palmoplantaris",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pustulosis-palmoplantaris/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Pyrofosfatartrit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/pyrofosfatartrit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Påssjuka",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/passjuka/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/palliativ-vard/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Psoriasis",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/psoriasis/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Prader-Willis syndrom (PWS)",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/prader-willis-syndrom-pws.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Primär hyperparatyreoidism",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-primar-hypertyreoidism.pdf",
+          "type": "Vårdprogram"
+        }
+      ]
+    },
+    "R": {
+      "count": 19,
+      "items": [
+        {
+          "title": "Raynauds fenomen",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/raynauds-fenomen/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Reaktiv artrit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/reaktiv-artrit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Remiss efter synprövning i förskoleklass inom elevhälsans medicinska insats",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/remiss-efter-synprovning-i-forskoleklass-inom-elevhalsans-medicinska-insats/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Remiss efter synprövning vid fyraårsbesöket i barnhälsovården",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/remiss-efter-synprovning-vid-fyraarsbesoket-i-barnhalsovarden/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Restless legs",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/restless-legs/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Retinal venocklusion",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/retinal-venocklusion/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Reumatoid artrit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/reumatoid-artrit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Rinosinuit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sinuit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Rinosinuit, kronisk",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/rinosinuit-kronisk/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Riskbruk av alkohol",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/riskbruk-av-alkohol/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Rosacea",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/rosacea/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Rotatorkuffruptur",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/rotatorkuffruptur/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Ryggmärgsbråck",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ryggmargsbrack/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Röda hund",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/roda-hund/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Rött öga med smärta",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/rott-oga-med-smarta/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Rött öga utan smärta",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/rott-oga-utan-smarta/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Rehabilitering och delar av försäkringsmedicinskt arbete - generisk modell för klinisk verksamhet",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardforlopp/generisk-modell-for-rehabilitering-och-delar-av-forsakringsmedicinskt-arbete_for-klinisk-verksamhet.pdf",
+          "type": "Okänd"
+        },
+        {
+          "title": "Reumatoid artrit (RA)",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/reumatoid-artrit-ra/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Reumatoid artrit - etablerad",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/reumatoid-artrit---etablerad/",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "S": {
+      "count": 60,
+      "items": [
+        {
+          "title": "Salpingit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/salpingit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Sarkoidos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sarkoidos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Seborroiskt eksem",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/seborroiskt-eksem/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Sepsis hos vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sepsis-hos-vuxna/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Septisk artrit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/septisk-artrit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Sjögrens syndrom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sjogrens-syndrom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Skabb",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skabb/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Skadligt bruk och beroende av alkohol",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skadligt-bruk-och-beroende-av-alkohol/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Skadligt bruk och beroende av narkotika",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skadligt-bruk-och-beroende-av-narkotika/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Skelett- och mjukdelssarkom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skelett--och-mjukdelssarkom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Skelning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skelning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Skelning hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skelning-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Skivepitelcancer i huden",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skivepitelcancer-i-huden/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Sköldkörtelcancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skoldkortelcancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Sköldkörtelrubbning hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/skoldkortelrubbning-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "SLE",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sle/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Smärta i höft och knä hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/smarta-i-hoft-och-kna-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Smärta, långvarig",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/smarta-langvarig/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Smärta, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/smarta-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Spänningshuvudvärk",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/spanningshuvudvark/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Spänningshuvudvärk hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/spanningshuvudvark-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Stelkramp",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stelkramp/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Sterilisering",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/sterilisering/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Stjärtfluss hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stjartfluss-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Stroke - körkortsbedömning efter stroke och TIA",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke---korkortsbedomning-efter-stroke-och-tia/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Stroke och TIA, akut",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke-och-tia-akut/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Stroke och TIA, uppföljning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke-och-tia-uppfoljning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Stroke – nutrition och nutritionsbehandling",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke--nutrition-och-nutritionsbehandling/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Stroke – skyndsam karotiskirurgi vid symtomgivande karotisstenos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke--skyndsam-karotiskirurgi-vid-symtomgivande-karotisstenos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Stroke – tidig understödd utskrivning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/stroke--tidig-understodd-utskrivning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Suicidriskbedömning",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/suicidriskbedomning/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Svampinfektion i hud och naglar",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/svampinfektion-i-hud-och-naglar/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Svampinfektion i hårbotten",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/svampinfektion-i-harbotten/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Svår smärta och opioidbehandling",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/svar-smarta-och-opioidbehandling/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Svårläkta sår",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/svarlakta-sar/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Syfilis",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/syfilis/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Synstörningar, akuta",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/synstorningar-akuta/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Sömnstörning, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/somnstorning-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Schizofreni",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/schizofreni/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Sepsis",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/sepsis/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Självskadebeteende hos vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/sjalvskadebeteende-hos-vuxna/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Smärta - långvarig, hos vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/smarta---langvarig-hos-vuxna/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Stroke och TIA – fortsatt vård och rehabilitering",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/stroke-och-tia---fortsatt-vard-och-rehabilitering/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Stroke och TIA – tidiga insatser och vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/stroke-och-tia--tidiga-insatser-och-vard/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Svårläkta sår",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/svarlakta-sar/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Sällsynta sjukdomar med komplexa vårdbehov",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/sallsynta-sjukdomar-med-komplexa-vardbehov/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Skörhet hos äldre",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/vardprogram-skorhet-hos-aldre.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Smärta, långvarig hos barn",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-langvarig-smarta-hos-barn.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Stensjukdom övre urinvägarna",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-stensjukdom-ovre-urinvagarna.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Svårläkta sår",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-svarlakta-sar.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Sekundärprevention vid kranskärlssjukdom, centerbaserad hjärtrehabilitering",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-sekundarprevention-vid-kranskarlssjukdom-centerbaserad-hjartrehabilitering-fas2.pdf",
+          "type": "Okänd"
+        },
+        {
+          "title": "Sekundärprevention vid kranskärlssjukdom, långsiktig uppföljning primärvård",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-sekundarprevention-vid-kranskarlssjukdom-langsiktig-uppfoljning-primarvard-fas3.pdf",
+          "type": "Okänd"
+        },
+        {
+          "title": "Sekundärprevention vid kranskärlssjukdom, på vårdavdelning",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-sekundarprevention-vid-kranskarlssjukdom-pa-vardavdelning-fas1.pdf",
+          "type": "Okänd"
+        },
+        {
+          "title": "Stroke – dysfagi",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-bedomning-och-handlaggning-av-dysfagi-efter-stroke.pdf",
+          "type": "Okänd"
+        },
+        {
+          "title": "Stroke – munhälsa",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-bedomning-av-munhalsa-efter-stroke-samt-for-regionernas-tandvardsstod.pdf",
+          "type": "Okänd"
+        },
+        {
+          "title": "Stroke – ny rehabiliteringsbedömning",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-ny-rehabiliteringsbedomning-efter-stroke.pdf",
+          "type": "Okänd"
+        },
+        {
+          "title": "Stroke – reperfusionsbehandling",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf",
+          "type": "Okänd"
+        },
+        {
+          "title": "Stroke – slutning av PFO",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-kryptogen-stroke-slutning-av-pfo.pdf",
+          "type": "Okänd"
+        },
+        {
+          "title": "Stroke – uppföljning efter stroke och TIA - Post-stroke-checklistan",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-uppfoljning-efter-stroke-och-tia-post-stroke-checklistan2023.pdf",
+          "type": "Okänd"
+        },
+        {
+          "title": "Systemisk skleros",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-systemisk-skleros.pdf",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "T": {
+      "count": 27,
+      "items": [
+        {
+          "title": "TBE, fästingburen hjärninflammation",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tbe-fastingburen-hjarninflammation/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Testikelcancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/testikelcancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tillväxtrubbningar hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tillvaxtrubbningar-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tinnitus",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tinnitus/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tjock- och ändtarmscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tjock--och-andtarmscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tobaks- och nikotinbruk",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tobaksbruk/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tonsillit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tonsillit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tortyrskada",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tortyrskada/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Traumatisk hjärnskada (THS) — uppföljning och rehabilitering vid lätt THS hos barn och ungdom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/traumatisk-hjarnskada-ths--uppfoljning-och-rehabilitering-vid-latt-ths-hos-barn-och-ungdom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Traumatisk hjärnskada (THS) — uppföljning och rehabilitering vid lätt THS hos vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/traumatisk-hjarnskada-ths--uppfoljning-och-rehabilitering-vid-latt-ths-hos-vuxna/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Traumatisk hjärnskada (THS) — uppföljning och rehabilitering vid medelsvår och svår THS hos vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/traumatisk-hjarnskada-ths--uppfoljning-och-rehabilitering-vid-medelsvar-och-svar-ths-hos-vuxna/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Traumatiska knäskador",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/traumatiska-knaskador/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Trigeminusneuralgi",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trigeminusneuralgi/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Trikomonaskolpit",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trikomonaskolpit/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Trikuspidalisinsufficiens",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trikuspidalisinsufficiens/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Trombocytopeni",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trombocytopeni/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Trumhinneperforation",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trumhinneperforation/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Trycksår, palliativ vård",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/trycksar-palliativ-vard/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tuberkulos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tuberkulos/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tumbasartros",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tumbasartros/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tvångssyndrom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tvangssyndrom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tårflöde på grund av nedsatt tårdränage samt infektioner i tårvägarna hos vuxna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tarflode-pa-grund-av-nedsatt-tardranage-samt-infektioner-i-tarvagarna-hos-vuxna/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Tårvägssjukdomar hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/tarvagssjukdomar-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Traumatisk hjärnskada (THS)",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/traumatisk-hjarnskada-ths/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Tuberkulos",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/Tuberkulos/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Tumbasartros",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-for-tumbasartros.pdf",
+          "type": "Vårdprogram"
+        },
+        {
+          "title": "Tonsillektomi, kall teknik",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-kall-teknik-vid-tonsillektomi.pdf",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "U": {
+      "count": 12,
+      "items": [
+        {
+          "title": "Urinblåse- och urinvägscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinblase--och-urinvagscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Urininkontinens hos kvinnor",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urininkontinens-hos-kvinnor/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Urinvägsinfektion hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Urinvägsinfektion hos kvinnor",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-hos-kvinnor/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Urinvägsinfektion hos män",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-hos-man/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Urinvägsinfektion hos äldre",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-hos-aldre/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Urinvägsinfektion under graviditet",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-under-graviditet/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Urinvägsinfektion, kateterassocierad",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urinvagsinfektion-kateterassocierad/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Urtikaria",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/urtikaria/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Uveala nevi och melanom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/uveala-nevi-och-melanom/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Uveit vid juvenil idiopatisk artrit (JIA) - screening och behandling",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/uveit-vid-juvenil-idiopatisk-artrit-jia---screening-och-behandling/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Uppföljning efter intensivvård, vuxna",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/uppdaterad20230907riktlinje-uppfoljning-vuxna-som-vardats-pa-intensivvardsavdelning.pdf",
+          "type": "Okänd"
+        }
+      ]
+    },
+    "V": {
+      "count": 13,
+      "items": [
+        {
+          "title": "Vattkoppor",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vattkoppor/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Venös insufficiens och varicer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/venos-insufficiens-och-varicer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Vibrationsskador i händerna",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vibrationsskador-i-handerna/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Videomöten i vården med barn och ungdomar",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/videomoten-i-varden-med-barn-och-ungdomar/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Viruskrupp hos barn",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/viruskrupp-hos-barn/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Virusvårtor",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/virusvartor/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Vitamin D-brist",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vitamin-d-brist/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Vitiligo",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vitiligo/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Vulvacancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vulvacancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Våld i nära relationer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vald-i-nara-relationer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Våt åldersförändring i gula fläcken (våt AMD)",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/vat-aldersforandring-i-gula-flacken-vat-amd/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Venös sjukdom i benen - varicer och venösa bensår",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/vardforlopp/venos-sjukdom-i-benen---varicer-och-venosa-bensar/",
+          "type": "Okänd"
+        },
+        {
+          "title": "Venös sjukdom i benen",
+          "url": "https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardprogram/nationellt-vardprogram-venos-sjukdom-i-benen.pdf",
+          "type": "Vårdprogram"
+        }
+      ]
+    },
+    "Y": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Yrsel, perifer orsak",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/yrsel-perifer-orsak/",
+          "type": "Kliniska kunskapsstöd"
+        }
+      ]
+    },
+    "Ä": {
+      "count": 2,
+      "items": [
+        {
+          "title": "Äggstockscancer",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/aggstockscancer/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Ätstörningar",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/atstorningar/",
+          "type": "Kliniska kunskapsstöd"
+        }
+      ]
+    },
+    "Å": {
+      "count": 1,
+      "items": [
+        {
+          "title": "Ångestsyndrom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/angestsyndrom/",
+          "type": "Kliniska kunskapsstöd"
+        }
+      ]
+    },
+    "Ö": {
+      "count": 3,
+      "items": [
+        {
+          "title": "Ögonlockssjukdomar",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ogonlockssjukdomar/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Ögonskador",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/ogonskador/",
+          "type": "Kliniska kunskapsstöd"
+        },
+        {
+          "title": "Öppenvinkelglaukom",
+          "url": "https://vardpersonal.1177.se/kunskapsstod/kliniska-kunskapsstod/riktlinjer-for-handlaggning--av-oppenvinkelglaukom/",
+          "type": "Kliniska kunskapsstöd"
+        }
+      ]
+    }
+  }
+}
